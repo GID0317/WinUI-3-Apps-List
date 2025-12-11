@@ -156,6 +156,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WD` [Proton VPN](https://github.com/ProtonVPN/win-app) <sup>`FOSS`</sup> <!-- logo: https://vpncdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fstatic%2Flogos%2Ficons%2Fvpn_f9embt.svg -->
 - `WD` [PSXMaster](https://apps.microsoft.com/detail/9n71hm7q8sxk) <!-- logo: https://store-images.s-microsoft.com/image/apps.62445.14007587871932254.4dba873a-38cf-46ec-b8eb-1bfaf8a9256e.d506a626-6ee2-4f5b-8945-316f92fa3d33?h=307 -->
 - `WD` [Reborn Live](https://apps.microsoft.com/detail/9nng4s1wn5fp) <!-- logo: https://store-images.s-microsoft.com/image/apps.22793.13743415585896312.01fbe17f-1955-4fe9-b88e-b4c21302b294.69f5170a-dafd-46b6-8d6a-28ca1c6818b5?h=307 -->
+- `WDM` [Unicord](https://github.com/UnicordDev/Unicord) `📆` <sup>`FOSS`</sup>
 - `WDM` [Wave Link 3.0](https://www.elgato.com/us/en/s/beta) `📆` <!-- logo: https://store-images.s- -->
 - `WDM` [Windows Sound Recorder](https://apps.microsoft.com/detail/9wzdncrfhwkn?hl=en-US&gl) <!-- logo: https://store-images.s-microsoft.com/image/apps.65228.9007199266246865.fdd30c53-ef1b-499d-a6c0-27ee100a32c2.b96891cc-b96e-4e53-a716-e370d1653e61?h=170 -->
 - `WDM` [Windows Camera](https://apps.microsoft.com/detail/9wzdncrfjbbg) <!-- logo: https://store-images.s-microsoft.com/image/apps.9585.9007199266252789.05ba84d6-f74d-4beb-ba05-12d7e5f76cd0.84ff9a8f-54fe-4188-8f15-377afec76fa9?h=170 -->
@@ -650,6 +651,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WD` [Discord-11](https://github.com/zuzumi-f/Discord-11) `🎨` <sup>`FOSS`</sup>
 - `WD` [Discord-mica](https://github.com/mazOnGitHub/discord-mica) `🎨` <sup>`FOSS`</sup>
 - `WDM` [Quarrel](https://github.com/UWPCommunity/Quarrel) `📆` <sup>`FOSS`</sup>
+- `WDM` [Unicord](https://github.com/UnicordDev/Unicord) `📆` <sup>`FOSS`</sup>
 
 #### <img src="https://i.postimg.cc/vZdJZXqx/size-32-id-ITKS1ol-YDy-Mw.png" width="18" height="18" /> Mastodon
 - `WDM` [Bluechirp](https://github.com/AnalogFeelings/Bluechirp) `📆` <!-- logo: https://github.com/AnalogFeelings/Bluechirp/raw/master/Branding/bluechirp.png -->
