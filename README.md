@@ -143,24 +143,12 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 ### 🆕 Newly Added Apps!
 
-- `WD` [Aggregate Live Broadcast](https://apps.microsoft.com/detail/9n1twg2g84vd) <!-- logo: https://store-images.s-microsoft.com/image/apps.54954.13964853534446575.c062f8ba-cc7f-4c93-b025-56516885489b.9e6c1bad-a74c-4f8b-82c5-fde9149633f6?h=307 -->
-- `WDM` [AirPlayReceiver: Screen Mirroring & Streaming](https://apps.microsoft.com/detail/9n4xf19xfjd8) <!-- logo: https://store-images.s-microsoft.com/image/apps.14239.14435729584765862.ad8c44a2-3307-462a-bc25-ca685f1478a4.0fb00256-67a4-4e33-bee0-c7d8e5a89eeb?h=210 -->
-- `WDM` [AI Dev Gallery](https://apps.microsoft.com/detail/9n9pn1mm3bd5?hl) <sup>`FOSS`</sup> <!-- logo: https://store-images.s-microsoft.com/image/apps.28684.13528392826310250.619ee742-7baf-444c-9179-254f55c3e3cf.1e3baf4a-7452-47e7-85f9-a4099c386459?h=170 -->
-- `WD` [Authority Editor](https://apps.microsoft.com/detail/9n3bxxqtlvln) <!-- logo: https://store-images.s-microsoft.com/image/apps.40729.13935021610997439.6641eaf8-90a6-4e52-a019-ef5cdd90e070.bed0af0c-2982-4154-8cab-8226334cb55b?h=115 -->
-- `WDM` [Lamina](https://github.com/Chill-Astro/Lamina) <sup>`FOSS`</sup>
-- `WDM` [ChatGPT Desktop App](https://github.com/johngagefaulkner/ChatGPTDesktopApp) `📆` <sup>`FOSS`</sup> <!-- logo: https://i.postimg.cc/KjSDLPLH/Chatgpt.png -->
-- `WDM` [Eppie Mail](https://github.com/Eppie-io/Eppie-App) <sup>`FOSS`</sup> <!-- logo: https://github.com/Eppie-io/Eppie-App/blob/main/src/Eppie.App/Eppie.App.UWP/Assets/StoreLogo.scale-100.png?raw=true -->
-- `WD` [Intel® Graphics Software](https://apps.microsoft.com/detail/9P8K5G2MWW6Z) <!-- logo: https://store-images.s-microsoft.com/image/apps.22186.14090896052071218.a5d380bb-54d3-42c3-aa39-c7845740564a.8dd11290-c5c9-472a-ad62-3125350cd48f?h=307 -->
-- `WD` [MouseLink](https://apps.microsoft.com/detail/xpffzbsvfp53j6) <!-- logo: https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHHFT949fUipzkiFOBH3fAiZZUCdYojwUyX2aTonS1aIwMrx6NUIsHfUHSLzjGJFxxvwGwZ.ul_kRzKtaGULwJ6GFTkuKa6ZJxqS_PKPERcAnFHeFjjI2IXoOh4rwGjoCdAZTdSccQRcWRXQC2R_KYgk-&format=source&h=210 -->
-- `WDM` [Nagi](https://apps.microsoft.com/detail/9p1v1ppml3qt). <!-- logo: https://store-images.s-microsoft.com/image/apps.65358.14504294530003358.405947ae-662e-4c7d-ba9a-eb6d9f23b51c.00d4e310-6b4e-4c4c-ab9b-78a0addbaf9c -->
-- `WDM` [Never Sleep](https://apps.microsoft.com/detail/9npwdqzrg923). <!-- logo: https://store-images.s-microsoft.com/image/apps.14623.13781034298287524.c79bf65e-1486-4b40-9361-025b06314983.b3490c8d-9bfb-4d21-9ce9-7275fed5386d?h=115 -->
-- `WD` [Rebound](https://github.com/IviriusCommunity/Rebound) <!-- logo: https://raw.githubusercontent.com/IviriusCommunity/Rebound/refs/heads/main/src/system/Rebound.Hub/Assets/AppIcons/ReboundHub.ico -->
-- `WDM` [Unicord](https://github.com/UnicordDev/Unicord) `📆` <sup>`FOSS`</sup>
-- `WDM` [Wave Link 3.0](https://www.elgato.com/us/en/s/beta) `📆` <!-- logo: https://i.postimg.cc/x8J3Nscy/Wave-Link3.png -->
-- `WDM` [Windows Sound Recorder](https://apps.microsoft.com/detail/9wzdncrfhwkn?hl=en-US&gl) <!-- logo: https://store-images.s-microsoft.com/image/apps.65228.9007199266246865.fdd30c53-ef1b-499d-a6c0-27ee100a32c2.b96891cc-b96e-4e53-a716-e370d1653e61?h=170 -->
-- `WDM` [Windows Camera](https://apps.microsoft.com/detail/9wzdncrfjbbg) <!-- logo: https://store-images.s-microsoft.com/image/apps.9585.9007199266252789.05ba84d6-f74d-4beb-ba05-12d7e5f76cd0.84ff9a8f-54fe-4188-8f15-377afec76fa9?h=170 -->
-- `WDM` [Windows HDR Calibration](https://apps.microsoft.com/detail/9n7f2sm5d1lr) <!-- logo: https://store-images.s-microsoft.com/image/apps.35619.14066308247113248.71f37cc8-86b5-4f83-855b-441821570bfe.3602898d-b565-4f20-a6a7-fca7a34f61aa?h=210 -->
-- `WD` [YT Music Lite](https://apps.microsoft.com/detail/9nhpxcxs27f9) <!-- logo: https://store-images.s-microsoft.com/image/apps.57744.13621526871464892.cf216136-c762-45a0-8e19-11962ffc160e.895e7c46-9ed6-4e96-a181-04bcf05dfecf?h=115 -->
+
+- `WDM` [Blip](https://blip.net/) <!-- logo: https://media.licdn.com/dms/image/v2/D4E0BAQH6U3m1TA5FGw/company-logo_200_200/company-logo_200_200/0/1691000007310/blipnet_logo?e=2147483647&v=beta&t=Ybf_kTct1oJ65wIxQmdgAUK6uvdgBkicI_bK3oNXAuo -->
+- `WDA` [clipshelf](https://www.clipshelf.app/) <!-- logo: https://www.clipshelf.app/wp-content/uploads/2024/02/Logo-150x150.png -->
+- `WDM` [CtrlHelp](https://ctrlhelp.velersoftware.com/) <!-- logo: https://medias.velersoftware.com/images/ctrlhelp-large.png -->
+- `WDM` [PowerToolbox](https://apps.microsoft.com/detail/9MV67V21H386) <!-- logo: https://store-images.s-microsoft.com/image/apps.16586.13799120564539197.64e975f3-b3fc-4148-a02e-2d8fc3893c09.c8fd777d-b961-4de5-a005-4c800849eaf7?h=115 -->
+- `WDM` [RyTuneX](https://github.com/rayenghanmi/RyTuneX) <sup>`FOSS`</sup> <!-- logo: https://github.com/rayenghanmi/RyTuneX/blob/main/Assets/StoreLogo.scale-125.png?raw=true -->
 
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
@@ -628,6 +616,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [Calendar Flyout](https://apps.microsoft.com/store/detail/calendar-flyout/9P2B3PLJXH3V) `💰` <!-- logo: https://store-images.s-microsoft.com/image/apps.39692.14565777777550263.7df61f39-036f-43aa-b940-c9bfee302b20.8a6daf5c-dc21-451b-a97e-3a16f5572a23?h=115 -->
 - `WDM` [Clipboard Canvas](https://apps.microsoft.com/detail/9nn2nzg8rltb) <!-- logo: https://store-images.s-microsoft.com/image/apps.22414.13751312969497455.a961e285-779d-4894-8dbe-319749eabd0c.ae9f5327-2148-49b8-bd3e-b429e79d5b31?h=115 -->
 - `WDM` [Control A](https://apps.microsoft.com/detail/9pb9sl4vbwd2) <!-- logo: https://store-images.s-microsoft.com/image/apps.53483.14122571573157057.594dc2d0-36db-4199-8d01-91955491c785.c1bbc186-892b-46c9-99c0-3e066f2e84bf?h=210 -->
+- `WDM` [CtrlHelp](https://ctrlhelp.velersoftware.com/) <!-- logo: https://medias.velersoftware.com/images/ctrlhelp-large.png -->
 - `WDM` [FCN for Writers](https://apps.microsoft.com/detail/9p28h11ckgwc) <!-- logo: https://store-images.s-microsoft.com/image/apps.10468.14562374879263186.00d7fcf2-db94-41b5-be7a-d99670f34531.ead89a8b-ee1e-490c-ae15-afc675efca65?h=115 -->
 - `WDM` [File Optimizer](https://apps.microsoft.com/detail/9p322wwxh4d0) `💰` <!-- logo: https://store-images.s-microsoft.com/image/apps.32756.14551051745901255.ce2888aa-ca1e-46bb-aa7d-a6a4cdc42123.ae4378ee-e5f2-48eb-a245-4a3b49cd0a54?h=115 -->
 - `WDM` [FlowTeX preview beta](https://apps.microsoft.com/detail/9nt79075t86l) <!-- logo: https://store-images.s-microsoft.com/image/apps.56894.14423936499072745.f231410b-5777-40fb-9a7f-6f8cb7d94919.72b1b477-9be7-4b17-bfba-6b34c7dcb2a7?h=115 -->
@@ -771,10 +760,12 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [Batch File Manager PRO](https://apps.microsoft.com/detail/9NRQ9GJQBQJN?ocid=pdpshare&hl=en-us&gl=US) `💰` <!-- logo: https://store-images.s-microsoft.com/image/apps.23039.14378340135532859.dbe53550-c64d-49d9-ac88-6175dcc908db.57b735aa-c70a-4156-98e4-6682c02a8822?h=115 -->
 - `WDM` [Battery Alarm & Analytics](https://apps.microsoft.com/detail/9n1v03mzcz86) <!-- logo: https://store-images.s-microsoft.com/image/apps.10089.13964761162974245.4ae7b5a9-0965-41a3-a63f-757a219eecf9.c85c75f2-1a24-4afa-b471-66e9df62e1ec?h=210 -->
 - `WDA` [Battery Flyout](https://apps.microsoft.com/detail/9nntd8s7rmjv) <!-- logo: https://store-images.s-microsoft.com/image/apps.45415.13731980272963993.4c3bc75f-e56a-4f30-be54-3741c54b53f7.c3dd5783-4c5b-4c03-a329-c73426441073?h=210 -->
+- `WDM` [Blip](https://blip.net/) <!-- logo: https://media.licdn.com/dms/image/v2/D4E0BAQH6U3m1TA5FGw/company-logo_200_200/company-logo_200_200/0/1691000007310/blipnet_logo?e=2147483647&v=beta&t=Ybf_kTct1oJ65wIxQmdgAUK6uvdgBkicI_bK3oNXAuo -->
 - `WDM` [BLuetooth Battery Level](https://apps.microsoft.com/store/detail/bluetooth-battery-level/9P2RFZSB04G2) <!-- logo: https://store-images.s-microsoft.com/image/apps.20706.14556920772280433.c6664058-7f4c-494e-9b45-1c73000aca37.b68d72d2-c3e6-494d-8a39-7e0a3781fe93?h=115 -->
 - `WDM` [ClassevivaPCTO](https://apps.microsoft.com/store/detail/classevivapcto/9PNST3M88D1S) <!-- logo: https://store-images.s-microsoft.com/image/apps.4641.14338168898299873.7312f537-2af8-400c-8179-fc5b718d334b.76ae9c0e-1d22-495a-8748-b3df618e54b7?h=115 -->
 - `WDM` [Clipboard Studio](https://apps.microsoft.com/detail/9nb8rb7pw40s) <!-- logo: https://store-images.s-microsoft.com/image/apps.5149.13517234919448103.d42da9d3-de45-47b3-ab54-b6c4d9a5d290.4ee63bc3-2bae-43a6-8586-819427adc467?h=115 -->
 - `WDM` [ClipConvert: Video to MP3 - Multitask](https://apps.microsoft.com/detail/9mwc3lnc60pz) <!-- logo: https://store-images.s-microsoft.com/image/apps.5382.13842186135076084.ccdd19c3-d215-494c-a3f1-32300a6a624a.4060bf12-966d-4e91-a009-bc9fd3727f4a?h=115 -->
+- `WDA` [clipshelf](https://www.clipshelf.app/) <!-- logo: https://www.clipshelf.app/wp-content/uploads/2024/02/Logo-150x150.png -->
 - `WD` [Codes Analyzer](https://apps.microsoft.com/detail/9nwgpgd8194m) <!-- logo: https://store-images.s-microsoft.com/image/apps.14839.14450039381292224.12ad342b-7943-44a1-a4f1-8e88ad27f695.181351bc-647f-43ea-8b04-e6c969c35a25?h=115 -->
 - `WDM` [Conscript](https://github.com/sh0ckj0ckey/Conscript) <sup>`FOSS`</sup> <!-- logo: https://github.com/sh0ckj0ckey/Conscripts/raw/main/Conscripts/Assets/Conscripts_Logo.png -->
 - `WDM` [CryptoTracker](https://github.com/ismaelestalayo/CryptoTracker) <sup>`FOSS`</sup> <!-- logo: https://github.com/ismaelestalayo/CryptoTracker/blob/master/UWP/Assets/Tiles%20and%20stuff/AppIcon.targetsize-256.png?raw=true -->
@@ -841,7 +832,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [Pillbox Pro](https://apps.microsoft.com/store/detail/pillbox-pro/9MZGZMJWFZSJ) <!-- logo: https://store-images.s-microsoft.com/image/apps.25938.13874741166981307.0a626273-963e-454b-9c83-603063722496.e10a7c1f-bf99-4314-9f4e-43c1972fa6f0?h=115 -->
 - `WD` [PocketCFD](https://apps.microsoft.com/store/detail/pocketcfd/9P9QZD92NR3F) <!-- logo: https://store-images.s-microsoft.com/image/apps.9555.14138051355027780.718c355e-489c-4b7e-a12d-8b9e208104c8.f522d058-3d12-4ac6-9641-5cbc869e5173?h=115 -->
 - `WDA` [PotatoVN](https://apps.microsoft.com/detail/9P9CBKD5HR3W) <!-- logo: https://store-images.s-microsoft.com/image/apps.38260.14141282336090894.fb83889d-8fec-49a0-9513-d2f1bdcb45bd.617cfb9a-2c7f-44c1-a4c4-4436c8b8390c?h=115 -->
-- `WDA` [PowerToolbox](https://apps.microsoft.com/detail/9MV67V21H386) <!-- logo: https://store-images.s-microsoft.com/image/apps.16586.13799120564539197.64e975f3-b3fc-4148-a02e-2d8fc3893c09.c8fd777d-b961-4de5-a005-4c800849eaf7?h=115 -->
+- `WDM` [PowerToolbox](https://apps.microsoft.com/detail/9MV67V21H386) <!-- logo: https://store-images.s-microsoft.com/image/apps.16586.13799120564539197.64e975f3-b3fc-4148-a02e-2d8fc3893c09.c8fd777d-b961-4de5-a005-4c800849eaf7?h=115 -->
 - `WD` [PPTXLocker - Presentation File Locker](https://apps.microsoft.com/detail/9n9mpqg9gcn2) `💰` <!-- logo: https://store-images.s-microsoft.com/image/apps.41330.13530010672035073.2b5ec1bc-118f-4ea5-8af2-6ce0e75ded65.ec488752-b1cb-47da-a882-3f2aad4d9184?h=115 -->
 - `WD` [PSXMaster](https://apps.microsoft.com/detail/9n71hm7q8sxk) <!-- logo: https://store-images.s-microsoft.com/image/apps.62445.14007587871932254.4dba873a-38cf-46ec-b8eb-1bfaf8a9256e.d506a626-6ee2-4f5b-8945-316f92fa3d33?h=307 -->
 - `WDM` [QRCoder - Easy QR Code Generator](https://apps.microsoft.com/detail/9ngpp9jx361t) `💰` <!-- logo: https://store-images.s-microsoft.com/image/apps.1788.13645557560553296.7c7681a1-3052-46e6-a87c-153af50e9504.906347ea-d6a3-46c3-8d7b-93451e405f79?h=115 -->
@@ -857,6 +848,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDA` [Rufus Next](https://github.com/rasyidf/rufus-next) `📆` <sup>`FOSS`</sup> <!-- logo: https://raw.githubusercontent.com/rasyidf/rufus-next/refs/heads/main/Rufus/Assets/WindowIcon.ico -->
 - `WDM` [Run by FireCube](https://apps.microsoft.com/store/detail/run-by-firecube-not-by-microsoft/9NQGV64S5136) <!-- logo: https://store-images.s-microsoft.com/image/apps.34695.13774329225973723.97bb9be3-1f2e-4680-ad1d-f94890de7c07.64e15c9a-e521-45eb-9726-81c02f51629f?h=115 -->
 - `WD` [RunManager](https://apps.microsoft.com/store/detail/runmanager/9NGP5GKCCF3S) <!-- logo: https://store-images.s-microsoft.com/image/apps.24903.13645868358273465.aa96364e-7a02-48e8-853c-9d2226ad466c.0e5f6ca9-665b-463c-8290-33875d5d6efb?h=115 -->
+- `WDM` [RyTuneX](https://github.com/rayenghanmi/RyTuneX) <sup>`FOSS`</sup> <!-- logo: https://raw.githubusercontent.com/rayenghanmi/RyTuneX/refs/heads/main/Assets/StoreLogo.scale-125.png -->
 - `WDM` [Scanner - Quick and Easy Document Scanning](https://apps.microsoft.com/store/detail/scanner-quick-and-easy-document-scanning/9N438MZHD3ZF) <!-- logo: https://store-images.s-microsoft.com/image/apps.60005.13990779270327240.92001e4d-d5c9-4aef-941d-6165ce6fa045.5894cc67-d270-4a87-9d97-916a9686d2dd?h=210 -->
 - `WDM` [Screen.Recorder](https://apps.microsoft.com/detail/9mswxd994dm1) <!-- logo: https://store-images.s-microsoft.com/image/apps.47054.13819621569502940.9aae4ee5-211c-46fc-ac70-6ad45cebf6c0.47ded70d-a13e-4c18-9151-060f3ec15c55?h=210 -->
 - `WD` [Screen Recorder Pro.](https://apps.microsoft.com/detail/screen-recorder-pro/9P4PF7SGF95R) `💰` <!-- logo: https://store-images.s-microsoft.com/image/apps.34388.14584922544627950.8844204b-0042-4843-87e8-de9f580e6fd4.829e3703-ec46-4267-bb30-d0bdbfe34115?h=210 -->
