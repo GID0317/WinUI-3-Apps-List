@@ -145,10 +145,13 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 
 - `WDM` [Blip](https://blip.net/) <!-- logo: https://media.licdn.com/dms/image/v2/D4E0BAQH6U3m1TA5FGw/company-logo_200_200/company-logo_200_200/0/1691000007310/blipnet_logo?e=2147483647&v=beta&t=Ybf_kTct1oJ65wIxQmdgAUK6uvdgBkicI_bK3oNXAuo -->
+- `WDM` [Bili.Copilot](https://github.com/Richasy/Bili.Copilot) <sup>`FOSS`</sup> <!-- logo: https://raw.githubusercontent.com/Richasy/Bili.Copilot/master/assets/StoreLogo.png -->
 - `WDA` [clipshelf](https://www.clipshelf.app/) <!-- logo: https://www.clipshelf.app/wp-content/uploads/2024/02/Logo-150x150.png -->
 - `WDM` [CtrlHelp](https://ctrlhelp.velersoftware.com/) <!-- logo: https://medias.velersoftware.com/images/ctrlhelp-large.png -->
+- `WDA` [GitHub Copilot Taskbar GUI](https://github.com/sirredbeard/ghcopilot-taskbar-gui) <sup>`FOSS`</sup> <!-- logo: https://raw.githubusercontent.com/sirredbeard/ghcopilot-taskbar-gui/refs/heads/master/CopilotTaskbarApp/Assets/copilot-logo.png -->
 - `WDM` [PowerToolbox](https://apps.microsoft.com/detail/9MV67V21H386) <!-- logo: https://store-images.s-microsoft.com/image/apps.16586.13799120564539197.64e975f3-b3fc-4148-a02e-2d8fc3893c09.c8fd777d-b961-4de5-a005-4c800849eaf7?h=115 -->
 - `WDM` [RyTuneX](https://github.com/rayenghanmi/RyTuneX) <sup>`FOSS`</sup> <!-- logo: https://github.com/rayenghanmi/RyTuneX/blob/main/Assets/StoreLogo.scale-125.png?raw=true -->
+- `WD` [UnityPackage Extractor](https://github.com/SamarthMP/unitypackage-extractor) <sup>`FOSS`</sup> <!-- logo: https://raw.githubusercontent.com/SamarthMP/unitypackage-extractor/refs/heads/main/Assets/favicon.png -->
 
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
@@ -177,6 +180,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [EasyChat AI](https://apps.microsoft.com/detail/9nxk0pk5zs1b) <!-- logo: https://store-images.s-microsoft.com/image/apps.11704.14428875438800119.91f44eeb-80b1-411b-a31e-8d35734573b6.86a50fc7-ef9c-4e42-8962-9e4cdabee6de?h=115 -->
 - `WDM` [Engage](https://github.com/iamhazel/Engage) `📆 Planned` <sup>`FOSS`</sup> <!-- logo: https://raw.githubusercontent.com/iamhazel/Engage/refs/heads/master/Engage/Assets/Logo.png -->
 - `WDM` [Eppie Mail](https://github.com/Eppie-io/Eppie-App) <sup>`FOSS`</sup> <!-- logo: https://github.com/Eppie-io/Eppie-App/blob/main/src/Eppie.App/Eppie.App.UWP/Assets/StoreLogo.scale-100.png?raw=true -->
+- `WDA` [GitHub Copilot Taskbar GUI](https://github.com/sirredbeard/ghcopilot-taskbar-gui) <sup>`FOSS`</sup> <!-- logo: https://raw.githubusercontent.com/sirredbeard/ghcopilot-taskbar-gui/refs/heads/master/CopilotTaskbarApp/Assets/copilot-logo.png -->
 - `WD` [GPT Labs](https://github.com/mnikonov/gpt-labs) <!-- logo: https://github.com/mnikonov/gpt-labs/blob/main/src/Gpt.Labs/Assets/StoreLogo.scale-200.png?raw=true -->
 - `WDM` [Interviewer Copilot](https://apps.microsoft.com/detail/9pjvpmsb6gvh) <!-- logo: https://store-images.s-microsoft.com/image/apps.61140.14279222764099172.9af3e6be-888d-4ace-ae9e-919d5e83fc69.faefbd9f-f5ab-43ae-b2fb-bf80f2d8ec9d?h=210 -->
 - `WD` [Local AI Assistant](https://apps.microsoft.com/detail/9n9l7mz02t2n) <!-- logo: https://store-images.s-microsoft.com/image/apps.55085.13535097904506787.061529fa-12f1-4465-82a8-667737670565.1729e8ab-6c23-45df-b5e0-ad9bf0cd7eb5?h=115 -->
@@ -258,6 +262,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [Rectify11](https://github.com/Rectify11/Installer) <sup>`FOSS`</sup> <!-- logo: https://raw.githubusercontent.com/Rectify11/Installer/master/logo.png -->
 - `WDM` [Sun Valley ttk theme](https://github.com/rdbende/Sun-Valley-ttk-theme) <sup>`FOSS`</sup>
 - `WD` [TextDiff UWP](https://apps.microsoft.com/detail/9p8fpd4xs74k) <sup>`FOSS`</sup> <!-- logo: https://store-images.s-microsoft.com/image/apps.57264.14089047520295490.3b3e8f50-cb3f-44d0-a873-679ba6dc3186.014d9f52-e3e1-49b9-ba2d-a33f633f4d7c?h=115 -->
+- `WD` [UnityPackage Extractor](https://github.com/SamarthMP/unitypackage-extractor) <sup>`FOSS`</sup> <!-- logo: https://raw.githubusercontent.com/SamarthMP/unitypackage-extractor/refs/heads/main/Assets/favicon.png -->
 - `WDA` [WinUI 3 Serial Port Communication](https://apps.microsoft.com/detail/9n97v1rzgt1p) <!-- logo: https://store-images.s-microsoft.com/image/apps.10051.13537481298673840.40b62e1e-f8b2-45e6-ba6d-01c14ae1c6eb.8733a4fb-6d0f-457f-a540-650634f0011b?h=115 -->
 - `WDM` [WUC Gallery App](https://apps.microsoft.com/detail/9mswnv3wmqc1) <!-- logo: https://store-images.s-microsoft.com/image/apps.56367.13819991677600828.da563013-69a0-47bd-b016-4dabb2577dde.c8356ac2-94ed-4a02-82d2-450bad990249?h=115 -->
 - `WD` [XAML Lab](https://github.com/WindowsNT/XAML-Lab) <!-- logo: https://raw.githubusercontent.com/WindowsNT/XAML-Lab/refs/heads/master/Assets/StoreLogo.png -->
@@ -388,7 +393,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WD` [MPDCtrl](https://github.com/torum/MPDCtrl) <!-- logo: https://raw.githubusercontent.com/torum/MPDCtrl/refs/heads/master/MPDCtrl-WPF/MPDCtrl/MPDCtrl2.ico -->
 - `WDM` [Melosik](https://apps.microsoft.com/store/detail/melosik-music-player-for-windows/9NH759PMH26M) <!-- logo: https://store-images.s-microsoft.com/image/apps.65335.13630942991679040.3b3c9bb1-4d2a-4eee-8534-6079bdf71caf.347a60a6-1ce3-4e9c-b42d-04d971ecb5e6?h=115 -->
 - `WDM` [Musicloud - Music Downloader](https://apps.microsoft.com/store/detail/musicloud-music-downloader/9P6V0D62D4BQ) <!-- logo: https://store-images.s-microsoft.com/image/apps.31982.14616980212163637.b9f7e344-284c-41ea-926e-7464f1e9d57e.80dd6530-674d-4b80-a328-cbfa87802dda?h=210 -->
-- `WDM` [Nagi](https://apps.microsoft.com/detail/9p1v1ppml3qt). <!-- logo: https://store-images.s-microsoft.com/image/apps.65358.14504294530003358.405947ae-662e-4c7d-ba9a-eb6d9f23b51c.00d4e310-6b4e-4c4c-ab9b-78a0addbaf9c -->
+- `WDM` [Nagi](https://apps.microsoft.com/detail/9p1v1ppml3qt) <sup>`FOSS`</sup> <!-- logo: https://store-images.s-microsoft.com/image/apps.65358.14504294530003358.405947ae-662e-4c7d-ba9a-eb6d9f23b51c.00d4e310-6b4e-4c4c-ab9b-78a0addbaf9c -->
 - `WDM` [Pinnacle Media Player](https://apps.microsoft.com/store/detail/pinnacle-media-player/9P534C2W7JK3) <!-- logo: https://store-images.s-microsoft.com/image/apps.19966.14577208341804766.da0b345f-2314-4e6e-9286-743d0b71e536.940ec450-c6d1-43d4-91e1-eb5ab4c78df7?h=210 -->
 - `WD` [PlayerWinRT](https://github.com/YexuanXiao/PlayerWinRT) <sup>`FOSS`</sup> <!-- logo: https://github.com/YexuanXiao/PlayerWinRT/blob/master/src/Assets/StoreLogo.scale-200.png?raw=true -->
 - `WDM` [Rise Media Player](https://github.com/Rise-Software/Rise-Media-Player) <sup>`FOSS`</sup> <!-- logo: https://github.com/theimpactfulcompany/Rise-Media-Player/blob/main/Rise%20Media%20Player%20Dev/Assets/App/StoreLogo.scale-150.png?raw=true -->
@@ -466,7 +471,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 #### 📺 Tracking Services
 
 - `WDM` [AniMoe](https://github.com/CosmicPredator/AniMoe) <sup>`FOSS`</sup> <!-- logo: https://camo.githubusercontent.com/c28a3c4c946c46465dec8d86b26db1b9a2f0a48fb86e4797cfa532cc51ec05fd/68747470733a2f2f692e696d6775722e636f6d2f58595a67586d502e706e67 -->
-- `WDM` [Bili.Uwp](https://github.com/Richasy/Bili.Uwp) <sup>`FOSS`</sup> 
+- `WDM` [Bili.Copilot](https://github.com/Richasy/Bili.Copilot) <sup>`FOSS`</sup> <!-- logo: https://raw.githubusercontent.com/Richasy/Bili.Copilot/master/assets/StoreLogo.png -->
 - `WDM` [Movier](https://apps.microsoft.com/detail/9ncf5gmw8q1q) <!-- logo: https://store-images.s-microsoft.com/image/apps.10491.13564961981097979.91d8b996-21fd-426c-b795-9b9385025832.9696950c-fcc1-4cf2-a8a0-8a2daabaf254?h=115 -->
 - `WDM` [Totoro](https://github.com/insomniachi/Totoro) <sup>`FOSS`</sup> <!-- logo: https://github.com/insomniachi/Totoro/blob/main/Totoro.WinUI/Assets/StoreLogo.scale-150.png?raw=true -->
 
@@ -587,11 +592,11 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [Custom Folder Icon Changer](https://apps.microsoft.com/store/detail/foldericonizer-change-folder-icons/9PLQDJ5XCNL3) `💰` <!-- logo: https://store-images.s-microsoft.com/image/apps.51590.14308753369152208.f7a93204-22e6-41a5-b7b6-f7c136ec2426.5c96f051-e258-43eb-ac75-1d628f783237?h=115 -->
 - `WDM` [Lively Wallpaper](https://apps.microsoft.com/store/detail/lively-wallpaper/9NTM2QC6QWS7) <!-- logo: https://store-images.s-microsoft.com/image/apps.4720.14416131676512756.84314783-1c86-4403-b991-2e1da8525703.bf78340f-7059-4641-8d3f-8a7f740be8c0?h=115 -->
 - `WDM` [Magpie](https://github.com/Blinue/Magpie) <sup>`FOSS`</sup> <!-- logo: https://github.com/Blinue/Magpie/raw/dev/src/Magpie/Icons/SVG/Magpie%20Icon%20Full%20Disabled.svg -->
-- `WDM` [Mica](https://apps.microsoft.com/store/detail/mica%E2%84%A2%EF%B8%8F/9N7LF08JZ98K) <!-- logo: https://store-images.s-microsoft.com/image/apps.31653.14062496896382426.2ad8e698-46e7-4ce6-91ae-be99b514a571.736eb5b5-bcb9-44c1-9ff0-f22ac604b3ee?h=115 -->
+- `WDM` [Mica](https://apps.microsoft.com/store/detail/mica%E2%84%A2%EF%B8%8F/9N7LF08JZ98K) <sup>`FOSS`</sup> <!-- logo: https://store-images.s-microsoft.com/image/apps.31653.14062496896382426.2ad8e698-46e7-4ce6-91ae-be99b514a571.736eb5b5-bcb9-44c1-9ff0-f22ac604b3ee?h=115 -->
 - `WDM` [MyDay - Hourly Day Planner](https://apps.microsoft.com/store/detail/myday-hourly-day-planner/9P8QTKPD2WK3) `💰` <!-- logo: https://store-images.s-microsoft.com/image/apps.30497.14083085480831194.673c25ae-adbc-4731-b9c1-e7ef03e5aa5f.9d473c69-2a59-4d81-8832-405501458fa4?h=115 -->
 - `WDM` [MyerSplash](https://apps.microsoft.com/store/detail/myersplash-photos/9NBLGGH4VCSN?hl=en-in&gl=in&rtc=1) <!-- logo: https://store-images.s-microsoft.com/image/apps.61900.13510798887498695.8019ad4f-f963-419e-a50a-4bf849d0f3e6.5545b5d6-9d1d-4c21-ba80-60977030c460?h=210 -->
 - `WD` [RainbowFrame](https://apps.microsoft.com/detail/9p0pflqk1b0w) <!-- logo: https://store-images.s-microsoft.com/image/apps.15224.14522839299776364.5c521730-1d0a-42ae-81c9-4cb479b6f3b4.cc449a53-ec87-4d63-9962-cbb7d4df62e0?h=115 -->
-- `WD` [Rebound](https://github.com/IviriusCommunity/Rebound) <!-- logo: https://raw.githubusercontent.com/IviriusCommunity/Rebound/refs/heads/main/src/system/Rebound.Hub/Assets/AppIcons/ReboundHub.ico -->
+- `WD` [Rebound](https://github.com/IviriusCommunity/Rebound) <sup>`FOSS`</sup> <!-- logo: https://raw.githubusercontent.com/IviriusCommunity/Rebound/refs/heads/main/src/system/Rebound.Hub/Assets/AppIcons/ReboundHub.ico -->
 - `WDM` [Startify](https://github.com/Lixkote/Startify) <!-- logo: https://github.com/lixkote/Startify/blob/main/FrontEnd/Assets/StoreLogo.scale-200.png?raw=true -->
 - `WDM` `WDA` [Sucrose Wallpaper Engine](https://apps.microsoft.com/detail/xp8jgpbhtjglcq) <!-- logo: https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHHFT949fUipzkiFOBH3fAiZZUCdYojwUyX2aTonS1aIwMrx6NUIsHfUHSLzjGJFxxgsJrvE99hQLXyECGkXk1Arisam0Cj.qmvi8wmF6H7O092ECzG1vqxFPRQhYS7qcu65yo26iJsEP2cih.skS7jw-&format=source&h=115 -->
 - `WDM` [Tabbed](https://apps.microsoft.com/detail/9pntw3wl9srq) <!-- logo: https://store-images.s-microsoft.com/image/apps.10255.14341488802739463.efe76018-3826-4568-a742-241de99f5a03.a163939e-9f2f-4a74-ab28-5bb4011ed4b7?h=115 -->
@@ -673,7 +678,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [Unigram](https://apps.microsoft.com/store/detail/unigram%E2%80%94telegram-for-windows/9N97ZCKPD60Q) <sup>`FOSS`</sup> <!-- logo: https://store-images.s-microsoft.com/image/apps.55245.13537716651231321.3067a421-6c2f-48a9-b77c-1e38e19146e6.10e2aa49-52ca-4e79-9a61-b6422978afb9?h=210 -->
 
 #### <img src="https://i.postimg.cc/521rVyyw/size-32-id-Kx-Hlias9Ag-Zt-format-png.png" width="21" height="21" /> Twitter
-- `WDM` [DarkSky for BlueSky](https://apps.microsoft.com/detail/9np22dtfscts) <!-- logo: https://store-images.s-microsoft.com/image/apps.60620.13727569916254149.e6e4931e-b7dc-4c7b-9ca2-3b8bcbe37885.c25b6177-a8da-4f23-a5e1-bda8503891e3?h=210 -->
+- `WDM` [DarkSky for BlueSky](https://apps.microsoft.com/detail/9np22dtfscts) <sup>`FOSS`</sup> <!-- logo: https://store-images.s-microsoft.com/image/apps.60620.13727569916254149.e6e4931e-b7dc-4c7b-9ca2-3b8bcbe37885.c25b6177-a8da-4f23-a5e1-bda8503891e3?h=210 -->
 
 #### <img src="https://i.postimg.cc/rmvhYF78/size-32-id-KKJp-GUq-O7Pvk.png" width="21" height="21" /> VK
 - `WDM` [Laney](https://apps.microsoft.com/detail/9MSPLCXVN1M5) <!-- logo: https://store-images.s-microsoft.com/image/apps.41862.13823708528388452.7d598df5-c725-4cd6-b0a9-cb52751b96fe.895cd14b-ded5-461b-9425-ff76d235cc02?h=115 -->
