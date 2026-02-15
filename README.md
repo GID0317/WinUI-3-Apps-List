@@ -155,7 +155,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [RyTuneX](https://github.com/rayenghanmi/RyTuneX) <sup>`FOSS`</sup> <!-- logo: https://github.com/rayenghanmi/RyTuneX/blob/main/Assets/StoreLogo.scale-125.png?raw=true -->
 - `WDM` [silence!](https://github.com/rocksdanister/silence) <sup>`FOSS`</sup>
 - `WDM` [Simple QR Code Maker](https://github.com/angrysonicgamer/simple-qr-code-maker) <sup>`FOSS`</sup>
-- `WD` [UnityPackage Extractor](https://github.com/SamarthMP/unitypackage-extractor) <sup>`FOSS`</sup> <!-- logo: https://raw.githubusercontent.com/SamarthMP/unitypackage-extractor/refs/heads/main/Assets/favicon.png -->
+- `WD` [UnityPackage Extractor](https://github.com/SamarthMP/unitypackage-extractor) <sup>`FOSS`</sup> <!-- logo: https://raw.githubusercontent.com/SamarthMP/unitypackage-extractor/refs/heads/main/Assets/favicon.png --> (Based on [Sun Valley ttk-theme](https://github.com/rdbende/Sun-Valley-ttk-theme), Not WinUI)
 
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
@@ -266,7 +266,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [Rectify11](https://github.com/Rectify11/Installer) <sup>`FOSS`</sup> <!-- logo: https://raw.githubusercontent.com/Rectify11/Installer/master/logo.png -->
 - `WDM` [Sun Valley ttk theme](https://github.com/rdbende/Sun-Valley-ttk-theme) <sup>`FOSS`</sup>
 - `WD` [TextDiff UWP](https://github.com/luandersonn/TextDiff-UWP) <sup>`FOSS`</sup> <!-- logo: https://store-images.s-microsoft.com/image/apps.57264.14089047520295490.3b3e8f50-cb3f-44d0-a873-679ba6dc3186.014d9f52-e3e1-49b9-ba2d-a33f633f4d7c?h=115 -->
-- `WD` [UnityPackage Extractor](https://github.com/SamarthMP/unitypackage-extractor) <sup>`FOSS`</sup> <!-- logo: https://raw.githubusercontent.com/SamarthMP/unitypackage-extractor/refs/heads/main/Assets/favicon.png -->
+- `WD` [UnityPackage Extractor](https://github.com/SamarthMP/unitypackage-extractor) <sup>`FOSS`</sup> <!-- logo: https://raw.githubusercontent.com/SamarthMP/unitypackage-extractor/refs/heads/main/Assets/favicon.png --> (Based on [Sun Valley ttk-theme](https://github.com/rdbende/Sun-Valley-ttk-theme), Not WinUI)
 - `WDA` [WinUI 3 Serial Port Communication](https://apps.microsoft.com/detail/9n97v1rzgt1p) <!-- logo: https://store-images.s-microsoft.com/image/apps.10051.13537481298673840.40b62e1e-f8b2-45e6-ba6d-01c14ae1c6eb.8733a4fb-6d0f-457f-a540-650634f0011b?h=115 -->
 - `WDM` [WUC Gallery App](https://apps.microsoft.com/detail/9mswnv3wmqc1) <!-- logo: https://store-images.s-microsoft.com/image/apps.56367.13819991677600828.da563013-69a0-47bd-b016-4dabb2577dde.c8356ac2-94ed-4a02-82d2-450bad990249?h=115 -->
 - `WD` [XAML Lab](https://github.com/WindowsNT/XAML-Lab) <sup>`FOSS`</sup> <!-- logo: https://raw.githubusercontent.com/WindowsNT/XAML-Lab/refs/heads/master/Assets/StoreLogo.png -->
