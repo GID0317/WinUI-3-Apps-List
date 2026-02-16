@@ -148,12 +148,12 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [Bili.Copilot](https://github.com/Richasy/Bili.Copilot) <sup>`FOSS`</sup> <!-- logo: https://raw.githubusercontent.com/Richasy/Bili.Copilot/master/assets/StoreLogo.png -->
 - `WDA` [clipshelf](https://www.clipshelf.app/) <!-- logo: https://www.clipshelf.app/wp-content/uploads/2024/02/Logo-150x150.png -->
 - `WDM` [CtrlHelp](https://ctrlhelp.velersoftware.com/) <!-- logo: https://medias.velersoftware.com/images/ctrlhelp-large.png -->
-- `WDM` [FluentTaskScheduler](https://github.com/hpavlo/FluentTaskScheduler) <sup>`FOSS`</sup>
+- `WDM` [FluentTaskScheduler](https://github.com/hpavlo/FluentTaskScheduler) <sup>`FOSS`</sup> <!-- https://raw.githubusercontent.com/TRGamer-tech/FluentTaskScheduler/refs/heads/main/Assets/AppIcon.png -->
 - `WDA` [GitHub Copilot Taskbar GUI](https://github.com/sirredbeard/ghcopilot-taskbar-gui) <sup>`FOSS`</sup> <!-- logo: https://raw.githubusercontent.com/sirredbeard/ghcopilot-taskbar-gui/refs/heads/master/CopilotTaskbarApp/Assets/copilot-logo.png -->
-- `WDM` [IT Admin Toolkit](https://github.com/hpavlo/IT-Admin-Toolkit) <sup>`FOSS`</sup>
+- `WDM` [IT Admin Toolkit](https://github.com/hpavlo/IT-Admin-Toolkit) <sup>`FOSS`</sup> <!-- logo: https://raw.githubusercontent.com/nkasco/IT-Admin-Toolkit-WinUI/refs/heads/master/Assets/Powershell5.png -->
 - `WDM` [PowerToolbox](https://github.com/Gaoyifei1011/PowerToolbox) <sup>`FOSS`</sup> <!-- logo: https://store-images.s-microsoft.com/image/apps.16586.13799120564539197.64e975f3-b3fc-4148-a02e-2d8fc3893c09.c8fd777d-b961-4de5-a005-4c800849eaf7?h=115 -->
 - `WDM` [RyTuneX](https://github.com/rayenghanmi/RyTuneX) <sup>`FOSS`</sup> <!-- logo: https://github.com/rayenghanmi/RyTuneX/blob/main/Assets/StoreLogo.scale-125.png?raw=true -->
-- `WDM` [silence!](https://github.com/rocksdanister/silence) <sup>`FOSS`</sup>
+- `WDM` [silence!](https://github.com/vertopolkaLF/silence) <sup>`FOSS`</sup> <!-- logo: https://raw.githubusercontent.com/vertopolkaLF/silence/refs/heads/main/Assets/app.png -->
 - `WDM` [Simple QR Code Maker](https://github.com/angrysonicgamer/simple-qr-code-maker) <sup>`FOSS`</sup>
 - `WD` [UnityPackage Extractor](https://github.com/SamarthMP/unitypackage-extractor) <sup>`FOSS`</sup> <!-- logo: https://raw.githubusercontent.com/SamarthMP/unitypackage-extractor/refs/heads/main/Assets/favicon.png -->
 
