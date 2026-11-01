@@ -245,7 +245,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 ## 🆕 Newly Added Apps!
 
-Last 144 apps that were recently added to list!
+Last 145 apps that were recently added to list!
 
 - `WDA` [AI Usage Monitor & Switcher](https://github.com/airtaxi/AI-Usage-Monitor-and-Switcher) <sup>`FOSS`</sup>
 - `WD` [AIExplorer](https://github.com/lancexiang/AIExplorer) <sup>`FOSS`</sup>
@@ -289,6 +289,7 @@ Last 144 apps that were recently added to list!
 - `WDM` [Fluent DevTools](https://apps.microsoft.com/detail/9pphsnsg9tdt)
 - `WDM` [Fluent Ink – Handwritten note-taking](https://apps.microsoft.com/detail/9pkq0td10qjx) `💰`
 - `WDM` [Fluent Math](https://github.com/cechout/fluent-math) <sup>`FOSS`</sup>
+- `WD` [Fluent Sensors](https://github.com/cechout/fluent-sensors) <sup>`FOSS`</sup>
 - `WD` [Fluestic](https://apps.microsoft.com/detail/9pm0lqz0cwsp)
 - `WD` [Folder Studio – Custom Folder Icons](https://apps.microsoft.com/detail/9p35895hcxwg) `💰`
 - `WDM` [Format Factory WinUI](https://apps.microsoft.com/detail/9p3fkcjhhz7n)
