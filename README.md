@@ -245,7 +245,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 ## 🆕 Newly Added Apps!
 
-Last 142 apps that were recently added to list!
+Last 144 apps that were recently added to list!
 
 - `WDA` [AI Usage Monitor & Switcher](https://github.com/airtaxi/AI-Usage-Monitor-and-Switcher) <sup>`FOSS`</sup>
 - `WD` [AIExplorer](https://github.com/lancexiang/AIExplorer) <sup>`FOSS`</sup>
@@ -323,8 +323,8 @@ Last 142 apps that were recently added to list!
 - `WDM` [OpenSense](https://github.com/archivesteak/opensense) <sup>`FOSS`</sup>
 - `WDA` [OriginalSound HQ Player](https://apps.microsoft.com/detail/9nfw1rppt999) `💰`
 - `WDM` [PaqetFire](https://github.com/4H1R/paqetfire) <sup>`FOSS`</sup>
-- `WDM` [PDF Editor - Document Tools](https://apps.microsoft.com/detail/9nfxqp51wdfm)
 - `WDM` [Passify](https://github.com/AhmedDevEG/Passify) <sup>`FOSS`</sup>
+- `WDM` [PDF Editor - Document Tools](https://apps.microsoft.com/detail/9nfxqp51wdfm)
 - `WDM` [PetDesk](https://github.com/uponatime2019/PetDesk) <sup>`FOSS`</sup>
 - `WD` [PingBoard](https://github.com/hkrob/PingBoard) <sup>`FOSS`</sup>
 - `WD` [ProcessKeeper](https://github.com/KangQiovo/ProcessKeeper) <sup>`FOSS`</sup>
@@ -369,10 +369,10 @@ Last 142 apps that were recently added to list!
 - `WD` [Verbinal](https://github.com/szautkin/CanfarDesktop) <sup>`FOSS`</sup>
 - `WD` [Vibesbox](https://github.com/sofianchitac/VibesboxKiosk) <sup>`FOSS`</sup>
 - `WDM` [Videohog](https://apps.microsoft.com/detail/9p2tkqpjnlbs)
-- `WDM` [Wally](https://github.com/AhmedDevEG/Wally)
 - `WD` [Visual Pad](https://apps.microsoft.com/detail/9p7xcxgqp92l)
 - `WDM` [Voice Recorder - AI Enhanced](https://apps.microsoft.com/detail/9phq05fmv017) `💰`
 - `WDM` [wallhaven](https://apps.microsoft.com/detail/9p0hc000twv5) `💰`
+- `WDM` [Wally](https://github.com/AhmedDevEG/Wally)
 - `WD` [Win LAN Transfer](https://github.com/uponatime2019/WinLANTransfer) <sup>`FOSS`</sup>
 - `WD` [WinDirectoryStats](https://github.com/uponatime2019/WinDirectoryStats) <sup>`FOSS`</sup>
 - `WDM` [Windows Toolbox](https://apps.microsoft.com/detail/9nmsr8sr7745)
@@ -1209,7 +1209,7 @@ Last 142 apps that were recently added to list!
 
 - `WD` [Anemos](https://github.com/hockerschwan/Anemos) <sup>`FOSS`</sup>
 - `WDM` [Disk Info](https://github.com/MicaApps/DiskInfo) <sup>`FOSS`</sup>
-- `WD` [Fluent HwInfo](https://github.com/cechout/fluent-sensors) <sup>`FOSS`</sup>
+- `WD` [Fluent Sensors](https://github.com/cechout/fluent-sensors) <sup>`FOSS`</sup>
 - `WDM` [Hardware information (temperature monitoring)](https://apps.microsoft.com/detail/9n9q4ld8286v)
 - `WD` [PingBoard](https://github.com/hkrob/PingBoard) <sup>`FOSS`</sup>
 - `WDA` [ProcView](https://apps.microsoft.com/detail/9mx5ggzckjp7)
