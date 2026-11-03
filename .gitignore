@@ -1,8 +1,7 @@
 # ==========================================
 # Legacy / Cataloger Utility
 # ==========================================
-FluentDeck/
-FluentDeck
+cataloger.html
 
 # ==========================================
 # Build & Output Files (.NET / C# / WinUI)
@@ -83,6 +82,8 @@ env/
 *.cer
 *.key
 *.p12
+.env*
+app_adder.html
 
 # ==========================================
 # OS Generated Files
