@@ -245,7 +245,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 ## 🆕 Newly Added Apps!
 
-Last 70 apps that were recently added to list!
+Last 72 apps that were recently added to list!
 
 - `WD` [ADB Manager](https://github.com/beliy26/AdbManager) <sup>`FOSS`</sup>
 - `WDA` [Adsk Licensing Modifier](https://apps.microsoft.com/detail/9njhvt90glp5)
@@ -279,6 +279,7 @@ Last 70 apps that were recently added to list!
 - `WD` `WDM` `WDA` [MyNotebook](https://github.com/aungkokomm/MyNotebook) <sup>`FOSS`</sup>
 - `WD` [Network Speed Checker](https://github.com/uponatime2019/NetworkSpeedChecker) <sup>`FOSS`</sup>
 - `WDM` [NockMon](https://github.com/nockawa/NockMon) <sup>`FOSS`</sup>
+- `WD` [openHAB](https://github.com/reyhard/openhab-win-app) <sup>`FOSS`</sup>
 - `WDA` [OpenNet](https://github.com/hoshiizumiya/OpenNet) <sup>`FOSS`</sup>
 - `WD` [OpenQCY Desktop](https://github.com/GiorgioRafael/OpenQCY-Desktop) <sup>`FOSS`</sup>
 - `WDM` [Paper Paint](https://github.com/uponatime2019/PaperPaint) <sup>`FOSS`</sup>
@@ -311,12 +312,14 @@ Last 70 apps that were recently added to list!
 - `WDM` [Windows Hot Corners](https://github.com/bwya77/Windows-Hot-Corners) <sup>`FOSS`</sup>
 - `WDM` [WinLevers](https://github.com/dimitriostzr/winlevers) <sup>`FOSS`</sup>
 - `WDA` [WinNote](https://github.com/RomarioTopno/winnote) <sup>`FOSS`</sup>
+- `WDM` [Wino Mail](https://github.com/bkaankose/Wino-Mail)
 - `WD` [WinQEMU](https://github.com/troposteff/WinQEMU) <sup>`FOSS`</sup>
 - `WD` [WinUI-BBS](https://github.com/tzhx12/WinUI-BBS) <sup>`FOSS`</sup>
 - `WDM` [WinYandex](https://github.com/pixiemays/WinYandex) <sup>`FOSS`</sup>
 - `WD` [With Windows](https://github.com/Lifeni/with-windows) <sup>`FOSS`</sup>
 - `WDM` [YTDownloader](https://github.com/TXG0Fk3/YTDownloader) <sup>`FOSS`</sup>
 - `WDA` [Zapret Mirrly Gui](https://github.com/joycecurcirt539-dot/zapret-mirrly-gui) <sup>`FOSS`</sup>
+
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
 ## 🛍️ Application Store
