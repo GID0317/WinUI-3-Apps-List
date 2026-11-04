@@ -245,80 +245,9 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 ## 🆕 Newly Added Apps!
 
-Last 72 apps that were recently added to list!
+Last 0 apps that were recently added to list!
 
-- `WD` [ADB Manager](https://github.com/beliy26/AdbManager) <sup>`FOSS`</sup>
-- `WDA` [Adsk Licensing Modifier](https://apps.microsoft.com/detail/9njhvt90glp5)
-- `WD` [Aihappey](https://github.com/achappey/aihappey-windows) <sup>`FOSS`</sup>
-- `WD` [AIMediaWorker](https://github.com/kirinonakar/AIMediaWorker) <sup>`FOSS`</sup>
-- `WDM` [Anchor Dock](https://github.com/framedparadox/anchor-dock) <sup>`FOSS`</sup>
-- `WD` [Anvil](https://github.com/jhammon88219/Anvil) <sup>`FOSS`</sup>
-- `WD` [ArcticControl](https://github.com/paulober/ArcticControl) <sup>`FOSS`</sup>
-- `WDA` [AutoCenter](https://github.com/jihedkdiss/AutoCenter) <sup>`FOSS`</sup>
-- `WD` [Beanotch Dock](https://github.com/giankbr/beanotch-dock) <sup>`FOSS`</sup>
-- `WDM` [CarpeCast](https://github.com/jayfunc/CarpeCast) <sup>`FOSS`</sup>
-- `WDM` [Cicadas](https://github.com/SimonShiki/cicadas) <sup>`FOSS`</sup>
-- `WDM` [cleanup](https://github.com/wiredincorp/cleanup) <sup>`FOSS`</sup>
-- `WDM` [Comic](https://github.com/Leisurely-Cloud/Comic) <sup>`FOSS`</sup>
-- `WD` [Deguffer](https://github.com/BootBlock/Deguffer) <sup>`FOSS`</sup>
-- `WDM` [EncoDeck](https://github.com/TIANLI0/EncoDeck) <sup>`FOSS`</sup>
-- `WD` [EquatorSolver](https://github.com/borisarm/equator) <sup>`FOSS`</sup>
-- `WD` [Fanficly](https://github.com/yennster/fanficly) <sup>`FOSS`</sup>
-- `WDM` [FluenityHub](https://github.com/FluenityHub/FluenityHub) <sup>`FOSS`</sup>
-- `WD` [FocusPocus](https://github.com/ezenwa/FocusPocus) <sup>`FOSS`</sup>
-- `WD` [Ha Companion Windows](https://github.com/Elias0505/ha-companion-windows) <sup>`FOSS`</sup>
-- `WD` [IntuneCommander](https://github.com/adamgell/IntuneCommander) <sup>`FOSS`</sup>
-- `WD` [Inventor.MetaReader](https://github.com/TWiesendanger/ExtrabbitCode.Inventor.MetaReader) <sup>`FOSS`</sup>
-- `WD` [Jelling Battery Monitor](https://github.com/Gitsko/jelling) <sup>`FOSS`</sup>
-- `WDM` [Luma HDR Photo Viewer](https://github.com/lueluelue12138/luma-hdr-photo-viewer) <sup>`FOSS`</sup>
-- `WDM` [Malachi Mail](https://github.com/schotek/malachi) <sup>`FOSS`</sup>
-- `WD` [MediaDuet](https://github.com/TIANLI0/MediaDuet) <sup>`FOSS`</sup>
-- `WD` [MiHouse Desktop](https://github.com/Zhanyuanium/MiHouse-Desktop) <sup>`FOSS`</sup>
-- `WDA` [MoreFlyout](https://github.com/ChenYiLins/MoreFlyout) <sup>`FOSS`</sup>
-- `WDM` [Msixplainer](https://github.com/aclinick/msixplainer) <sup>`FOSS`</sup>
-- `WD` `WDM` `WDA` [MyNotebook](https://github.com/aungkokomm/MyNotebook) <sup>`FOSS`</sup>
-- `WD` [Network Speed Checker](https://github.com/uponatime2019/NetworkSpeedChecker) <sup>`FOSS`</sup>
-- `WDM` [NockMon](https://github.com/nockawa/NockMon) <sup>`FOSS`</sup>
-- `WD` [openHAB](https://github.com/reyhard/openhab-win-app) <sup>`FOSS`</sup>
-- `WDA` [OpenNet](https://github.com/hoshiizumiya/OpenNet) <sup>`FOSS`</sup>
-- `WD` [OpenQCY Desktop](https://github.com/GiorgioRafael/OpenQCY-Desktop) <sup>`FOSS`</sup>
-- `WDM` [Paper Paint](https://github.com/uponatime2019/PaperPaint) <sup>`FOSS`</sup>
-- `WD` [PatchLight](https://github.com/G4SBO/PatchLight) <sup>`FOSS`</sup>
-- `WDA` [PredatorLite](https://github.com/XYZ1024-alt/PredatorLite) <sup>`FOSS`</sup>
-- `WD` [Pulse Windows](https://github.com/charles-forsyth/pulse-windows) <sup>`FOSS`</sup>
-- `WD` [QuickMindMap](https://github.com/uponatime2019/QuickMindMap) <sup>`FOSS`</sup>
-- `WD` [Reeled](https://github.com/k25jura/Reeled) <sup>`FOSS`</sup>
-- `WD` [Resonant Pulse](https://github.com/tinodo/Resonant-Pulse) <sup>`FOSS`</sup>
-- `WD` [Resonant Tuner](https://github.com/tinodo/Resonant-Tuner) <sup>`FOSS`</sup>
-- `WDM` [RTX Auto Curve Optimizer](https://github.com/smohring/rtx-auto-curve-optimizer) <sup>`FOSS`</sup>
-- `WDM` [SATLI](https://github.com/GaBoron/SATLI) <sup>`FOSS`</sup>
-- `WD` [SecureAppLocker](https://github.com/osmanonurkoc/SecureAppLocker) <sup>`FOSS`</sup>
-- `WD` [Sensitivity](https://github.com/Has-X/Sensitivity) <sup>`FOSS`</sup>
-- `WDM` [SillClip](https://github.com/BENZOOgataga/SillClip) <sup>`FOSS`</sup>
-- `WDM` [Stretto Download Manager](https://github.com/Marek-Codex/Stretto-Download-Manager) <sup>`FOSS`</sup>
-- `WD` [Tiny Solitaire](https://github.com/Tray-Land/tiny-solitaire) <sup>`FOSS`</sup>
-- `WD` [Translator Overlay](https://github.com/OKTW-Network/Translator-Overlay) <sup>`FOSS`</sup>
-- `WDA` [Tray Converter](https://github.com/Tray-Land/tray-converter) <sup>`FOSS`</sup>
-- `WDA` [Tray do](https://github.com/Tray-Land/tray-do) <sup>`FOSS`</sup>
-- `WDA` [Tray folder](https://github.com/Tray-Land/tray-folder) <sup>`FOSS`</sup>
-- `WD` [Tray sport](https://github.com/Tray-Land/tray-sport) <sup>`FOSS`</sup>
-- `WDA` [Trayulator](https://github.com/Tray-Land/trayulator) <sup>`FOSS`</sup>
-- `WD` `WDM` `WDA` [Tunetastic](https://github.com/AMit-KP/Tunetastic) <sup>`FOSS`</sup>
-- `WD` [TxtAIEditor](https://github.com/kirinonakar/TxtAIEditor) <sup>`FOSS`</sup>
-- `WD` [UniversalConverter X](https://github.com/SysAdminDoc/UniversalConverterX) <sup>`FOSS`</sup>
-- `WD` [Uviewer](https://github.com/kirinonakar/Uviewer) <sup>`FOSS`</sup>
-- `WD` [VirtualPaper](https://github.com/PaperHammer/VirtualPaper) <sup>`FOSS`</sup>
-- `WD` [Waller](https://github.com/gvastethecreator/waller) <sup>`FOSS`</sup>
-- `WDM` [Windows Hot Corners](https://github.com/bwya77/Windows-Hot-Corners) <sup>`FOSS`</sup>
-- `WDM` [WinLevers](https://github.com/dimitriostzr/winlevers) <sup>`FOSS`</sup>
-- `WDA` [WinNote](https://github.com/RomarioTopno/winnote) <sup>`FOSS`</sup>
-- `WDM` [Wino Mail](https://github.com/bkaankose/Wino-Mail)
-- `WD` [WinQEMU](https://github.com/troposteff/WinQEMU) <sup>`FOSS`</sup>
-- `WD` [WinUI-BBS](https://github.com/tzhx12/WinUI-BBS) <sup>`FOSS`</sup>
-- `WDM` [WinYandex](https://github.com/pixiemays/WinYandex) <sup>`FOSS`</sup>
-- `WD` [With Windows](https://github.com/Lifeni/with-windows) <sup>`FOSS`</sup>
-- `WDM` [YTDownloader](https://github.com/TXG0Fk3/YTDownloader) <sup>`FOSS`</sup>
-- `WDA` [Zapret Mirrly Gui](https://github.com/joycecurcirt539-dot/zapret-mirrly-gui) <sup>`FOSS`</sup>
+- ⃃
 
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
@@ -409,7 +338,7 @@ Last 72 apps that were recently added to list!
 
 - `WDM` `WDA` [Arc Browser](https://arc.net/) `❎`
 - `WDM` [Aurora](https://apps.microsoft.com/detail/9mxzldlctfwl)
-- `WD` `WDM` `WDA` [Dia for Windows 11](https://www.diabrowser.com/windows)
+- `WDM` `WDA` [Dia for Windows](https://www.diabrowser.com/windows)
 - `WDM` [Firefox-WinUI](https://github.com/Lockframe/Firefox-WinUI) `🎨` <sup>`FOSS`</sup>
 - `WDM` `WDA` [Horizon](https://apps.microsoft.com/detail/9pfs0vxcd5sr) <sup>`FOSS`</sup>
 - `WDA` [Hurl](https://github.com/U-C-S/Hurl) <sup>`FOSS`</sup>
@@ -1114,6 +1043,7 @@ Last 72 apps that were recently added to list!
 
 ### Bluesky
 
+- `WDM` [Darksky (Preview)](https://apps.microsoft.com/detail/9np22dtfscts)
 - `WDM` [Traysky](https://github.com/Tray-Land/traysky) <sup>`FOSS`</sup>
 
 ### Discord
@@ -1143,7 +1073,7 @@ Last 72 apps that were recently added to list!
 
 ### Twitter
 
-- `WDM` [DarkSky for BlueSky](https://apps.microsoft.com/detail/9np22dtfscts)
+- ⃃
 
 ### VK
 
