@@ -245,9 +245,10 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 ## 🆕 Newly Added Apps!
 
-Last 0 apps that were recently added to list!
+Last 2 apps that were recently added to list!
 
-- ⃃
+- `WDM` [Darksky (Preview)](https://apps.microsoft.com/detail/9np22dtfscts)
+- `WDM` `WDA` [Dia for Windows](https://www.diabrowser.com/windows)
 
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
