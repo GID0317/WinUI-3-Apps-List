@@ -32,27 +32,37 @@ def get_git_added_apps(readme_path):
     except Exception:
         pass
 
-    # Try last commit diff (for workflow execution on pushed commits)
-    try:
-        out = subprocess.check_output(['git', 'diff', 'HEAD~1', 'HEAD', '-U0', '--', readme_path], encoding='utf-8', errors='ignore')
-        if out:
-            diff_outputs.append(out)
-    except Exception:
-        pass
+    # Try last commit diff (only when staged and working tree are clean, e.g. for workflow execution on pushed commits)
+    if not diff_outputs:
+        try:
+            out = subprocess.check_output(['git', 'diff', 'HEAD~1', 'HEAD', '-U0', '--', readme_path], encoding='utf-8', errors='ignore')
+            if out:
+                diff_outputs.append(out)
+        except Exception:
+            pass
 
     added_apps = {}
     for diff in diff_outputs:
-        for line in diff.splitlines():
-            if line.startswith('+') and not line.startswith('+++'):
-                clean = line[1:].strip()
-                # Clean any logo comments
-                clean = re.sub(r'\s*<!--\s*logo:\s*(https?://[^\s>]+)\s*-->', '', clean).strip()
-                if clean.startswith('- ') and '](' in clean:
-                    link_m = re.search(r'\[.*?\]\((https?://[^\)]+)\)', clean)
-                    if link_m:
-                        link = link_m.group(1).strip().lower().rstrip('/')
-                        if link not in added_apps:
-                            added_apps[link] = clean
+        for hunk in diff.split('@@'):
+            if not hunk.strip():
+                continue
+            hunk_lines = hunk.strip().splitlines()
+            # If hunk modifies an existing app line (contains both - and + for an app), skip it
+            has_deleted_app = any(l.startswith('-') and not l.startswith('---') and l[1:].strip().startswith('- ') for l in hunk_lines)
+            if has_deleted_app:
+                continue
+
+            for line in hunk_lines:
+                if line.startswith('+') and not line.startswith('+++'):
+                    clean = line[1:].strip()
+                    # Clean any logo comments
+                    clean = re.sub(r'\s*<!--\s*logo:\s*(https?://.*?)\s*-->', '', clean).strip()
+                    if clean.startswith('- ') and '](' in clean:
+                        link_m = re.search(r'\[.*?\]\((https?://[^\)]+)\)', clean)
+                        if link_m:
+                            link = link_m.group(1).strip().lower().rstrip('/')
+                            if link not in added_apps:
+                                added_apps[link] = clean
     return added_apps
 
 def sync_newly_added_apps(readme_content, git_added_apps, logo_entries):
@@ -80,7 +90,7 @@ def sync_newly_added_apps(readme_content, git_added_apps, logo_entries):
             link_m = re.search(r'\[.*?\]\((https?://[^\)]+)\)', line)
             if link_m:
                 link = link_m.group(1).strip().lower().rstrip('/')
-                clean_line = re.sub(r'\s*<!--\s*logo:\s*(https?://[^\s>]+)\s*-->', '', line).strip()
+                clean_line = re.sub(r'\s*<!--\s*logo:\s*(https?://.*?)\s*-->', '', line).strip()
                 newly_apps[link] = clean_line
 
     # 2. Check apps with logo comments in this run
@@ -140,7 +150,7 @@ def main():
 
     # 2. Extract new logos from README.md
     extract_pattern = re.compile(
-        r'(-\s*.*?\[([^\]]+)\]\((https?://[^\)]+)\).*?<!--\s*logo:\s*(https?://[^\s>]+)\s*-->)',
+        r'(-\s*.*?\[([^\]]+)\]\((https?://[^\)]+)\).*?<!--\s*logo:\s*(https?://.*?)\s*-->)',
         re.IGNORECASE
     )
     logo_matches = extract_pattern.findall(content)
@@ -151,7 +161,7 @@ def main():
             'name': name.strip(),
             'logo': logo.strip()
         }
-        clean_line = re.sub(r'\s*<!--\s*logo:\s*(https?://[^\s>]+)\s*-->', '', full_line).strip()
+        clean_line = re.sub(r'\s*<!--\s*logo:\s*(https?://.*?)\s*-->', '', full_line).strip()
         new_logo_entries.append((link.strip(), clean_line))
 
     # 3. Detect newly added apps from git diff
@@ -162,7 +172,7 @@ def main():
 
     # 5. Remove logo comments from README.md
     cleaned_content = re.sub(
-        r'\s*<!--\s*logo:\s*(https?://[^\s>]+)\s*-->',
+        r'\s*<!--\s*logo:\s*(https?://.*?)\s*-->',
         '',
         content
     )
