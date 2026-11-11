@@ -230,55 +230,90 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 - `WDM` [Ambie](https://github.com/jenius-apps/ambie) <sup>`FOSS`</sup>
 - `WDM` [CalcX - Advanced graphical calculator](https://apps.microsoft.com/detail/9mx92vg2g7ns) `💰`
-- `WDM` [Files App](https://github.com/files-community/files)
+- `WDM` [Files App](https://github.com/files-community/files) <sup>`FOSS`</sup>
 - `WDM` [Fluent Emoji Gallery](https://github.com/michalleptuch/fluent-emoji-gallery)
 - `WDM` [FluentWeather](https://github.com/Gabboxl/FluentWeather) <sup>`FOSS`</sup>
 - `WDM` [Melora](https://github.com/IcySnex/Melora) <sup>`FOSS`</sup>
-- `WDM` [Odyssey](https://github.com/deadwood2/OdysseyWebBrowser)
+- `WDM` [Odyssey](https://github.com/deadwood2/OdysseyWebBrowser) <sup>`FOSS`</sup>
 - `WDM` [Radiograph](https://apps.microsoft.com/store/detail/radiograph/9NH1P86H06CG)
 - `WDM` [S Files Pro X - Shrestha File Explorer](https://apps.microsoft.com/detail/s-files-pro-x-shrestha-file-explorer/9NPNFFSV2HQM)
-- `WDM` [Wino Mail](https://github.com/bkaankose/Wino-Mail)
+- `WDM` [Wino Mail](https://github.com/bkaankose/Wino-Mail) <sup>`FOSS`</sup>
 - `WDM` [Wintoys](https://apps.microsoft.com/store/detail/wintoys/9P8LTPGCBZXD)
 
 # 📑 Apps List
 
 ## 🆕 Newly Added Apps!
 
-Last 33 apps that were recently added to list!
+Last 68 apps that were recently added to list!
 
 - `WD` [Allium](https://github.com/fwOnion/Allium) <sup>`FOSS`</sup>
+- `WDM` [APK Installer](https://github.com/Paving-Base/APK-Installer) <sup>`FOSS`</sup>
+- `WDM` [AtlasOS Toolbox](https://github.com/Atlas-OS/atlas-toolbox) <sup>`FOSS`</sup>
+- `WDM` [Audio Router](https://github.com/ShortDevelopment/Audio-Router) <sup>`FOSS`</sup>
+- `WDM` [Better Endfield](https://github.com/Dr-hydra/Better-Endfield) <sup>`FOSS`</sup>
+- `WDM` [BetterGI](https://github.com/babalae/better-genshin-impact) <sup>`FOSS`</sup>
 - `WD` [Bluetooth Audio Codec](https://github.com/A-BenLi06/Bluetooth-Audio-Codec-Viewer-WinUI3) <sup>`FOSS`</sup>
+- `WDA` [CC98 Desktop](https://github.com/Ansherly/CC98-Desktop) <sup>`FOSS`</sup>
+- `WDM` [CDPI UI](https://github.com/Storik4pro/cdpiui) <sup>`FOSS`</sup>
 - `WDM` [Clipboard Inspector](https://github.com/TheJoeFin/clipboard-inspector) <sup>`FOSS`</sup>
+- `WDA` [Clippy](https://github.com/FireCubeStudios/Clippy) <sup>`FOSS`</sup>
 - `WD` [CompInfo](https://github.com/OceanCyanTech/CompInfo) <sup>`FOSS`</sup>
 - `WD` [DTran](https://github.com/denbdenb/dTran) <sup>`FOSS`</sup>
 - `WDM` [ErbaiLiveTool](https://github.com/f1shsmell/ErbaiLiveTool) <sup>`FOSS`</sup>
 - `WD` [EricGameLauncher](https://github.com/EricZhang233/EricGameLauncher) <sup>`FOSS`</sup>
+- `WDM` [Fluent M3U8](https://github.com/zhiyiYo/Fluent-M3U8) <sup>`FOSS`</sup>
 - `WDM` [Fluent Scrobbler](https://github.com/snw-mint/fluent-scrobbler) <sup>`FOSS`</sup>
 - `WD` [Flux Reader](https://github.com/lomirus/flux-reader) <sup>`FOSS`</sup>
 - `WD` [Genshin Music Studio](https://github.com/Akinome/genshin-music-studio) <sup>`FOSS`</sup>
+- `WDM` [GoAwayEdge](https://github.com/valnoxy/GoAwayEdge) <sup>`FOSS`</sup>
+- `WDM` [Haiyu](https://github.com/HaiyuGame/Haiyu) <sup>`FOSS`</sup>
 - `WD` [Inklet](https://github.com/JAD-Apps/Inklet) <sup>`FOSS`</sup>
+- `WDM` [IT Admin Toolkit](https://github.com/nkasco/IT-Admin-Toolkit-WinUI) <sup>`FOSS`</sup>
 - `WDM` [Jailbreak Tool](https://github.com/dazhiyi2/jailbreak-tool) <sup>`FOSS`</sup>
+- `WDM` [JASM](https://github.com/Jorixon/JASM) <sup>`FOSS`</sup>
 - `WD` [JBLControl](https://github.com/ffrafat/JBLControl) <sup>`FOSS`</sup>
 - `WD` [Koda](https://github.com/Ivorisnoob/koda-windows) <sup>`FOSS`</sup>
 - `WDM` [LightNovelSelector](https://github.com/chenhaoxiang05/LightNovelSelector) <sup>`FOSS`</sup>
+- `WDM` [Llama App](https://github.com/ggml-org/Llama-Windows) <sup>`FOSS`</sup>
+- `WDA` [Lunox](https://github.com/Soferity/Lunox) <sup>`FOSS`</sup>
 - `WDA` [Lyricod](https://github.com/Indarkdust/Lyricod-App) <sup>`FOSS`</sup>
+- `WDM` [MahiroToolbox](https://github.com/Eanya-Tonic/MahiroToolbox) <sup>`FOSS`</sup>
+- `WDM` [March7thAssistant](https://github.com/moesnow/March7thAssistant) <sup>`FOSS`</sup>
 - `WDM` [Mem Reduct WinUI](https://github.com/Pimnghi/memreduct-winui) <sup>`FOSS`</sup>
 - `WD` [Mercury Converter](https://github.com/AfridexD/MercuryConverter) <sup>`FOSS`</sup>
+- `WDM` [Microsoft PC Manager](https://apps.microsoft.com/detail/9pm860492szd)
 - `WDM` [MihomoDeck](https://github.com/KarlRaphel/MihomoDeck) <sup>`FOSS`</sup>
 - `WD` [Nearclip](https://github.com/ivLis-Studio/nearclip) <sup>`FOSS`</sup>
+- `WDM` [ok-duet-night-abyss](https://github.com/BnanZ0/ok-duet-night-abyss) <sup>`FOSS`</sup>
+- `WDM` [ok-nte](https://github.com/BnanZ0/ok-nte) <sup>`FOSS`</sup>
+- `WDM` [ok-wuthering-waves](https://github.com/ok-oldking/ok-wuthering-waves) <sup>`FOSS`</sup>
 - `WD` [Pakko](https://github.com/pakkoapp-oss/pakko) <sup>`FOSS`</sup>
 - `WD` [Photos Backup](https://github.com/ayush5harma/google-photos-backup) <sup>`FOSS`</sup>
 - `WDM` [Plotree](https://github.com/Htkym/Plotree) <sup>`FOSS`</sup>
 - `WDM` [QNote](https://github.com/Mr-Second/QNote) <sup>`FOSS`</sup>
 - `WD` [Reframe](https://github.com/shuiandy/Reframe) <sup>`FOSS`</sup>
+- `WDM` [Sefirah](https://github.com/shrimqy/Sefirah) <sup>`FOSS`</sup>
+- `WDM` [SilverMation](https://github.com/GID0317/SilverMation) <sup>`FOSS`</sup>
 - `WDM` [Siraj](https://github.com/TheVeryStarlk/Siraj) <sup>`FOSS`</sup>
 - `WD` [SlidePace](https://github.com/hongjiapeng/SlidePace) <sup>`FOSS`</sup>
 - `WD` [Smoove 2.0](https://github.com/starkovskypro-code/Smoove-2.0) <sup>`FOSS`</sup>
+- `WDM` [Snap Hutao Remastered](https://github.com/SnapHutaoRemasteringProject/Snap.Hutao.Remastered) <sup>`FOSS`</sup>
+- `WDM` [SpanFinder](https://github.com/LumiBearStudio/SpanFinder) <sup>`FOSS`</sup>
+- `WDM` [Starlight GUI](https://github.com/OpenStarlight/StarlightGUI) <sup>`FOSS`</sup>
+- `WDM` [StarRailOneDragon](https://github.com/OneDragon-Anything/StarRailOneDragon) <sup>`FOSS`</sup>
+- `WDM` [Starshot](https://github.com/loliri/Starshot) <sup>`FOSS`</sup>
+- `WDA` [Starward](https://github.com/Scighost/Starward) <sup>`FOSS`</sup>
+- `WDM` [Symbolic11](https://github.com/Benisgo/Symbolic11) <sup>`FOSS`</sup>
+- `WDM` [SyncClipboard](https://github.com/Jeric-X/SyncClipboard) <sup>`FOSS`</sup>
+- `WDM` [Tailscale Client](https://github.com/uwu/tailscale-client) <sup>`FOSS`</sup>
+- `WDM` [TaskbarGroupsFluent](https://github.com/Mun1to/TaskbarGroupsFluent) <sup>`FOSS`</sup>
 - `WDA` [Tiny Tracker](https://github.com/Bikuuuu/tiny-tracker) <sup>`FOSS`</sup>
 - `WD` [TranslateWithDictCC](https://github.com/chausner/TranslateWithDictCC) <sup>`FOSS`</sup>
+- `WD` [UnityPackage Extractor](https://github.com/SamarthMP/unitypackage-extractor) <sup>`FOSS`</sup>
 - `WD` [UWin](https://github.com/bnsware/UWin) <sup>`FOSS`</sup>
 - `WDM` [VoxRack](https://github.com/vpainer/voxrack) <sup>`FOSS`</sup>
 - `WD` [Win Folder Monitor](https://github.com/uponatime2019/WinFolderMonitor) <sup>`FOSS`</sup>
+- `WDM` [ZenlessZoneZero-OneDragon](https://github.com/OneDragon-Anything/ZenlessZoneZero-OneDragon) <sup>`FOSS`</sup>
 
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
@@ -300,16 +335,18 @@ Last 33 apps that were recently added to list!
 - `WDM` [Bree AI](https://apps.microsoft.com/detail/9nxkfgfqncxs)
 - `WDM` [ChatGPT Desktop App](https://github.com/johngagefaulkner/ChatGPTDesktopApp) `📆` <sup>`FOSS`</sup>
 - `WDM` [ChatTailor AI](https://apps.microsoft.com/store/detail/chattailor-ai/9PJRF3ZZ3KHK)
+- `WDA` [Clippy](https://github.com/FireCubeStudios/Clippy) <sup>`FOSS`</sup>
 - `WD` [Cocos](https://github.com/jiripolasek/cocos) <sup>`FOSS`</sup>
 - `WD` [Easy AI Workspace](https://apps.microsoft.com/detail/9n9hs0fvhtcp)
 - `WDM` [EasyChat AI](https://apps.microsoft.com/detail/9nxk0pk5zs1b)
 - `WDM` [Engage](https://github.com/iamhazel/Engage) `📆 Planned` <sup>`FOSS`</sup>
 - `WDA` [GitHub Copilot Taskbar GUI](https://github.com/sirredbeard/ghcopilot-taskbar-gui) <sup>`FOSS`</sup> `❎`
-- `WD` [GPT Labs](https://github.com/mnikonov/gpt-labs)
+- `WD` [GPT Labs](https://github.com/mnikonov/gpt-labs) <sup>`FOSS`</sup>
 - `WD` [Harness.WinUI](https://github.com/breezy89757/Harness.WinUI) <sup>`FOSS`</sup>
 - `WDM` [KaiROS AI](https://github.com/avikeid2007/KaiROS-AI) <sup>`FOSS`</sup>
+- `WDM` [Llama App](https://github.com/ggml-org/Llama-Windows) <sup>`FOSS`</sup>
 - `WD` [Lucky](https://github.com/Guts444/Lucky) <sup>`FOSS`</sup>
-- `WD` [MaskedAIChat](https://apps.microsoft.com/detail/9pp344qwxrds)
+- `WD` [MaskedAIChat](https://apps.microsoft.com/detail/9pp344qwxrds) <sup>`FOSS`</sup>
 - `WD` [MDC AI](https://apps.microsoft.com/detail/9nw24n9w33c9)
 - `WDM` [Paperclip by FireCube](https://apps.microsoft.com/detail/9nwk37s35v5t)
 - `WDA` [Perfect Memory](https://apps.microsoft.com/detail/XP9M33WLFS472F)
@@ -353,7 +390,7 @@ Last 33 apps that were recently added to list!
 ## 📕 Books & Reference
 
 - `WDM` [AryanEbookLibrary](https://github.com/aungkokomm/AryanEbookLibrary) <sup>`FOSS`</sup>
-- `WD` [Audibly — Audiobook Player](https://apps.microsoft.com/detail/9p6r1m1gg9jr)
+- `WD` [Audibly — Audiobook Player](https://apps.microsoft.com/detail/9p6r1m1gg9jr) <sup>`FOSS`</sup>
 - `WD` [ePub+](https://apps.microsoft.com/detail/9pfspmjkkqht)
 - `WD` [EzManga](https://github.com/uponatime2019/EzManga) <sup>`FOSS`</sup>
 - `WD` [Fanficly](https://github.com/yennster/fanficly) <sup>`FOSS`</sup>
@@ -387,19 +424,19 @@ Last 33 apps that were recently added to list!
 
 - `WDM` [AI Dev Gallery](https://apps.microsoft.com/detail/9n9pn1mm3bd5) <sup>`FOSS`</sup>
 - `WDM` [Delphi WinUI 3](https://github.com/HemulGM/DelphiWinUI3) `📆 Planned` <sup>`FOSS`</sup>
-- `WD` [DevWinUI Gallery](https://apps.microsoft.com/detail/DevWinUI%20Gallery%20App/9nmx5x5dlsrq)
+- `WD` [DevWinUI Gallery](https://apps.microsoft.com/detail/DevWinUI%20Gallery%20App/9nmx5x5dlsrq) <sup>`FOSS`</sup>
 - `WDM` [Fluent Flet](https://github.com/Bbalduzz/fluentflet) `📆 Planned` <sup>`FOSS`</sup>
 - `WDM` [iNKORE.UI.WPF.Modern Gallery](https://apps.microsoft.com/detail/9N3JS11ZC38G)
 - `WDM` [Metaverse UI Content App](https://apps.microsoft.com/detail/9pdm9g95dv7l)
-- `WDM` [MVVM Toolkit Sample App](https://apps.microsoft.com/store/detail/mvvm-toolkit-sample-app/9NKLCF1LVZ5H)
+- `WDM` [MVVM Toolkit Sample App](https://apps.microsoft.com/store/detail/mvvm-toolkit-sample-app/9NKLCF1LVZ5H) <sup>`FOSS`</sup>
 - `WD` [Qt-Fluent-Widgets](https://github.com/Fairy-Oracle-Sanctuary/Qt-Fluent-Widgets) <sup>`FOSS`</sup>
 - `WDM` [Syncfusion WinUI Controls Gallery](https://apps.microsoft.com/detail/9n0fp16ddc06)
 - `WDM` [Syncfusion WPF Controls Examples](https://apps.microsoft.com/detail/9n99kdhrff6g)
 - `WDM` [Windows Community Toolkit](https://github.com/CommunityToolkit/Windows) <sup>`FOSS`</sup>
 - `WDM` [WinUI Gallery](https://github.com/microsoft/WinUI-Gallery) <sup>`FOSS`</sup>
-- `WDM` [WinUIEssentials.WinUI3Example](https://apps.microsoft.com/detail/9pcc690bcmt9)
+- `WDM` [WinUIEssentials.WinUI3Example](https://apps.microsoft.com/detail/9pcc690bcmt9) <sup>`FOSS`</sup>
 - `WDM` [WPF Gallery](https://apps.microsoft.com/detail/9ndlx60wx4kq)
-- `WDM` [WPF UI](https://apps.microsoft.com/store/detail/wpf-ui/9N9LKV8R9VGM)
+- `WDM` [WPF UI](https://apps.microsoft.com/store/detail/wpf-ui/9N9LKV8R9VGM) <sup>`FOSS`</sup>
 - `WD` [XAML Brewer WinUI3 LiveChart2 Sample](https://github.com/XamlBrewer/XamlBrewer.WinUI3.LiveChart2.Sample) <sup>`FOSS`</sup>
 - `WD` [XAML Brewer WinUI3 SkiaSharp Sample](https://github.com/XamlBrewer/XamlBrewer.WinUI3.SkiaSharp.Sample) <sup>`FOSS`</sup>
 
@@ -408,7 +445,7 @@ Last 33 apps that were recently added to list!
 - `WD` [AK.Toolkit](https://github.com/AndrewKeepCoding/AK.Toolkit) <sup>`FOSS`</sup>
 - `WD` [App Actions Testing Playground](https://apps.microsoft.com/detail/9plswv2gr8b4)
 - `WDM` [Audio Tool Box](https://apps.microsoft.com/detail/9P8563LCR4QV)
-- `WD` [Azure Key Vault Explorer](https://github.com/cricketthomas/AzureKeyVaultExplorer)
+- `WD` [Azure Key Vault Explorer](https://github.com/cricketthomas/AzureKeyVaultExplorer) <sup>`FOSS`</sup>
 - `WD` [CFTools for Windows](https://github.com/investblog/cftools-win) <sup>`FOSS`</sup>
 - `WD` [Codly Snippet Manager](https://apps.microsoft.com/detail/9pgpg8pcf2f9) `💰`
 - `WDM` [Colors.Rainbow](https://github.com/sh0ckj0ckey/Colors.Rainbow) <sup>`FOSS`</sup>
@@ -418,7 +455,7 @@ Last 33 apps that were recently added to list!
 - `WD` [Dev Home GitHub Extension (Preview)](https://apps.microsoft.com/store/detail/dev-home-github-extension-preview/9NZCC27PR6N6)
 - `WD` [Developers Toolbox](https://apps.microsoft.com/store/detail/developers-toolbox/9N6J5X2172Q8)
 - `WD` [DevToys](https://github.com/DevToys-app/DevToys) <sup>`FOSS`</sup>
-- `WD` [DevWinUI](https://github.com/ghost1372/DevWinUI)
+- `WD` [DevWinUI](https://github.com/ghost1372/DevWinUI) <sup>`FOSS`</sup>
 - `WD` [Encrypt Tools](https://apps.microsoft.com/detail/9p8ln5rp6rc6)
 - `WD` [EzGit](https://github.com/uponatime2019/EzGit) <sup>`FOSS`</sup>
 - `WD` [Fellmonger](https://github.com/fbarbat/fellmonger) <sup>`FOSS`</sup>
@@ -442,6 +479,7 @@ Last 33 apps that were recently added to list!
 - `WDM` [jsree](https://apps.microsoft.com/detail/9plphk05pjf7)
 - `WD` [KeyPocket](https://github.com/MidnightCrowing/KeyPocket) <sup>`FOSS`</sup>
 - `WDM` [Loopback Manager](https://github.com/Richasy/LoopbackManager.Desktop) <sup>`FOSS`</sup>
+- `WDA` [Lunox](https://github.com/Soferity/Lunox) <sup>`FOSS`</sup>
 - `WDM` [Msixplainer](https://github.com/aclinick/msixplainer) <sup>`FOSS`</sup>
 - `WD` [Network Tools Collection Desktop Edition](https://apps.microsoft.com/detail/9nw6l8plqmm4)
 - `WD` [Nuget Pacman](https://apps.microsoft.com/detail/9pb3fzp9nm36) `💰`
@@ -462,6 +500,7 @@ Last 33 apps that were recently added to list!
 - `WDM` [Sun Valley ttk theme](https://github.com/rdbende/Sun-Valley-ttk-theme) <sup>`FOSS`</sup>
 - `WDM` [SwellSSH](https://github.com/yaog6700-bit/Swell-SSH) <sup>`FOSS`</sup>
 - `WD` [TextDiff UWP](https://apps.microsoft.com/detail/9p8fpd4xs74k) <sup>`FOSS`</sup>
+- `WD` [UnityPackage Extractor](https://github.com/SamarthMP/unitypackage-extractor) <sup>`FOSS`</sup>
 - `WDM` [UWP Template](https://apps.microsoft.com/detail/9nf9w67c59wh)
 - `WDM` [WinAsset Studio – WinUI Asset Generator](https://apps.microsoft.com/detail/9pc5wlm83nx7)
 - `WD` [WinQEMU](https://github.com/troposteff/WinQEMU) <sup>`FOSS`</sup>
@@ -471,7 +510,7 @@ Last 33 apps that were recently added to list!
 - `WDM` [WinUI.DiffViewer](https://github.com/Louis-Dittmar/WinUI.DiffViewer) `📆 Planned` <sup>`FOSS`</sup>
 - `WDM` [WUC Gallery App](https://apps.microsoft.com/detail/9mswnv3wmqc1)
 - `WD` [Xaml Diff](https://apps.microsoft.com/detail/9nblggh63p3x)
-- `WD` [XAML Lab](https://github.com/WindowsNT/XAML-Lab)
+- `WD` [XAML Lab](https://github.com/WindowsNT/XAML-Lab) <sup>`FOSS`</sup>
 - `WD` [XAML Path Icons](https://apps.microsoft.com/detail/9mtbnqsz9nz9)
 - `WDM` [Xiyi ViVeTool GUI](https://apps.microsoft.com/detail/9p1bw5wb82mh) `💰`
 - `WDM` [YAML Hub](https://apps.microsoft.com/detail/9p75wcwvlxqn) `💰`
@@ -483,6 +522,7 @@ Last 33 apps that were recently added to list!
 
 ### Full-Featured Download Manager
 - `WD` [Download Manager Kit](https://apps.microsoft.com/detail/9mx6kd8wgwgp)
+- `WDM` [Fluent M3U8](https://github.com/zhiyiYo/Fluent-M3U8) <sup>`FOSS`</sup>
 - `WDM` [Ghost Downloader](https://github.com/XiaoYouChR/Ghost-Downloader-3) `📆` <sup>`FOSS`</sup> (Based on [PyQt-Fluent-Widgets](https://github.com/zhiyiYo/PyQt-Fluent-Widgets), not WinUI)
 - `WDM` [OnionMedia](https://github.com/onionware-github/OnionMedia) <sup>`FOSS`</sup>
 - `WDM` [Stretto Download Manager](https://github.com/Marek-Codex/Stretto-Download-Manager) <sup>`FOSS`</sup>
@@ -494,7 +534,7 @@ Last 33 apps that were recently added to list!
 - `WD` [FlyTorrent](https://apps.microsoft.com/detail/9n1zz68cq350)
 - `WDA` [OpenNet](https://github.com/hoshiizumiya/OpenNet) <sup>`FOSS`</sup>
 - `WDM` [qBitTorrent-Fluent theme](https://github.com/witalihirsch/qBitTorrent-fluent-theme) <sup>`FOSS`</sup>
-- `WD` [Wintor - Torrent Client](https://apps.microsoft.com/detail/9p7p2dh9p4xn)
+- `WD` [Wintor - Torrent Client](https://apps.microsoft.com/detail/9p7p2dh9p4xn) <sup>`FOSS`</sup>
 - `WDM` [WinTorrent](https://apps.microsoft.com/detail/9nq9vf309dn6)
 - `WDM` [youTorrent](https://apps.microsoft.com/detail/9p2qmbvqrcfn)
 
@@ -508,7 +548,7 @@ Last 33 apps that were recently added to list!
 - `WD` [Ultra Music & Video Downloader PRO](https://apps.microsoft.com/detail/9p9pwlkpr1k8)
 - `WDM` [Vidder Video Downloader](https://apps.microsoft.com/detail/9njjx5ns63x2)
 - `WDM` [Vido Video and MP3 Music Downloader](https://apps.microsoft.com/detail/9n9tzxcpz5kj)
-- `WDM` [WinTube](https://github.com/Areoxy/WinTube) <sup>`FOSS`</sup>
+- `WDM` [WinTube](https://github.com/Areoxy/WinTube)
 - `WD` [YT Video & MP3 Downloader and Converter](https://apps.microsoft.com/detail/9n15nknh976h)
 - `WD` [YT2MP3](https://github.com/0zean/YT2MP3) <sup>`FOSS`</sup>
 - `WDM` [YTB.Downloader](https://apps.microsoft.com/detail/9nlcb909p1cf)
@@ -527,6 +567,7 @@ Last 33 apps that were recently added to list!
 
 ## 🎓 Education
 
+- `WDA` [CC98 Desktop](https://github.com/Ansherly/CC98-Desktop) <sup>`FOSS`</sup>
 - `WDM` [English Dictionary - Offline](https://apps.microsoft.com/detail/9nsmlkmc3wb6)
 - `WDM` [English Learning Hub](https://apps.microsoft.com/detail/9pc27dddfb5z)
 - `WDM` [English Vocabulary Learner](https://apps.microsoft.com/detail/9pnjtm00g251)
@@ -566,6 +607,7 @@ Last 33 apps that were recently added to list!
 - `WDM` `WDA` [RX-Explorer (WAS)](https://apps.microsoft.com/detail/9pdn2q3dcqs3) `💰`
 - `WDM` [S Files Pro X - Shrestha File Explorer](https://apps.microsoft.com/detail/s-files-pro-x-shrestha-file-explorer/9NPNFFSV2HQM) `💰`
 - `WD` [Shrestha Files Free](https://apps.microsoft.com/store/detail/shrestha-files-free/9PLL2XRXQ9LF)
+- `WDM` [SpanFinder](https://github.com/LumiBearStudio/SpanFinder) <sup>`FOSS`</sup>
 - `WDA` [Tray folder](https://github.com/Tray-Land/tray-folder) <sup>`FOSS`</sup>
 
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
@@ -583,7 +625,7 @@ Last 33 apps that were recently added to list!
 ### Games
 
 - `WDM` [Emerald](https://github.com/RiversideValley/Emerald) <sup>`FOSS`</sup>
-- `WM` [Fluent 2048](https://github.com/Zingzy/fluent-2048) <sup>`FOSS`</sup>
+- `WM` [Fluent 2048](https://github.com/Zingzy/fluent-2048)
 - `WDM` [Fluent-Tic-Tac-Toe](https://github.com/dfchang149/Fluent-Tic-Tac-Toe) <sup>`FOSS`</sup>
 - `WDA` [Gues.io](https://apps.microsoft.com/detail/9mt0dpsh2lcw)
 - `WD` [Irregular Sliding Puzzle](https://github.com/Pure-Happiness/Irregular-Sliding-Puzzle) <sup>`FOSS`</sup>
@@ -598,6 +640,8 @@ Last 33 apps that were recently added to list!
 - `WD` [AoE2DE Lobby Browser](https://github.com/tmk907/AoE2DELobbyBrowser) <sup>`FOSS`</sup>
 - `WDM` [Aoe4 Overlay WinUI 3](https://apps.microsoft.com/detail/9np6m86kj0t6)
 - `WDM` [BallanceLauncher](https://github.com/Ghomist/BallanceLauncher) <sup>`FOSS`</sup>
+- `WDM` [Better Endfield](https://github.com/Dr-hydra/Better-Endfield) <sup>`FOSS`</sup>
+- `WDM` [BetterGI](https://github.com/babalae/better-genshin-impact) <sup>`FOSS`</sup>
 - `WDM` [Bloxstrap](https://github.com/bloxstraplabs/bloxstrap) <sup>`FOSS`</sup>
 - `WDM` [Citrine](https://github.com/CitrineLauncher/Citrine) <sup>`FOSS`</sup>
 - `WDA` [Collapse](https://github.com/CollapseLauncher/Collapse) <sup>`FOSS`</sup>
@@ -607,24 +651,35 @@ Last 33 apps that were recently added to list!
 - `WDM` [Game Calender](https://apps.microsoft.com/detail/9wzdncrd1p4n)
 - `WD` [GameGate](https://github.com/akoc1/GameGate) <sup>`FOSS`</sup>
 - `WD` [GenshinSwitch](https://github.com/GenshinMatrix/genshin-switch) <sup>`FOSS`</sup> `❎`
+- `WDM` [Haiyu](https://github.com/HaiyuGame/Haiyu) <sup>`FOSS`</sup>
 - `WDM` [Handheld Companion](https://github.com/Valkirie/HandheldCompanion) <sup>`FOSS`</sup>
+- `WDM` [JASM](https://github.com/Jorixon/JASM) <sup>`FOSS`</sup>
 - `WD` [ky3-Launcher](https://github.com/ky3-studio/ky3-Launcher) <sup>`FOSS`</sup>
+- `WDM` [March7thAssistant](https://github.com/moesnow/March7thAssistant) <sup>`FOSS`</sup>
 - `WDM` [MCSkinn](https://apps.microsoft.com/detail/9N8SJT329HH1)
 - `WM` [Mixplay for Mixer](https://apps.microsoft.com/store/detail/mixplay-for-mixer/9PN94D9BDFZM)
 - `WD` [Moonward](https://github.com/TurmoilZoom/Moonward) <sup>`FOSS`</sup>
 - `WDA` [Natsurainko.FluentLauncher](https://github.com/Xcube-Studio/Natsurainko.FluentLauncher) <sup>`FOSS`</sup> `❎`
 - `WDM` [New Eden Roaming Guide](https://github.com/qedsd/TheGuideToTheNewEden) <sup>`FOSS`</sup>
+- `WDM` [ok-duet-night-abyss](https://github.com/BnanZ0/ok-duet-night-abyss) <sup>`FOSS`</sup>
+- `WDM` [ok-nte](https://github.com/BnanZ0/ok-nte) <sup>`FOSS`</sup>
+- `WDM` [ok-wuthering-waves](https://github.com/ok-oldking/ok-wuthering-waves) <sup>`FOSS`</sup>
 - `WD` [OmniConsole](https://github.com/8bit2qubit/OmniConsole) <sup>`FOSS`</sup>
 - `WD` [OVR Lighthouse Manager](https://github.com/kurotu/OVR-Lighthouse-Manager) <sup>`FOSS`</sup>
 - `WDM` [Polymerium](https://github.com/d3ara1n/Polymerium) <sup>`FOSS`</sup>
 - `WDM` [PortableAppsManager](https://github.com/Jurij15/PortableAppsManager) <sup>`FOSS`</sup>
 - `WD` [Reeled](https://github.com/k25jura/Reeled) <sup>`FOSS`</sup>
 - `WD` [SCSHub](https://github.com/AmirMahdaviAM/SCSHub) <sup>`FOSS`</sup>
+- `WDM` [SilverMation](https://github.com/GID0317/SilverMation) <sup>`FOSS`</sup>
+- `WDM` [Snap Hutao Remastered](https://github.com/SnapHutaoRemasteringProject/Snap.Hutao.Remastered) <sup>`FOSS`</sup>
+- `WDM` [StarRailOneDragon](https://github.com/OneDragon-Anything/StarRailOneDragon) <sup>`FOSS`</sup>
+- `WDA` [Starward](https://github.com/Scighost/Starward) <sup>`FOSS`</sup>
 - `WD` [Steam Achievements](https://github.com/pepeizq/Steam-Achievements) <sup>`FOSS`</sup>
 - `WD` [SteamPulse](https://github.com/AmirMahdaviAM/SteamPulse) <sup>`FOSS`</sup>
 - `WDA` [Vanilla-RTX-App](https://github.com/Vanilla-RTX/Vanilla-RTX-App) <sup>`FOSS`</sup>
 - `WD` [Versatile](https://github.com/VersatileProject/Versatile) <sup>`FOSS`</sup>
 - `WDM` [XianYuLauncher](https://apps.microsoft.com/detail/9pcnpgl7j6ks) <sup>`FOSS`</sup>
+- `WDM` [ZenlessZoneZero-OneDragon](https://github.com/OneDragon-Anything/ZenlessZoneZero-OneDragon) <sup>`FOSS`</sup>
 
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
@@ -646,7 +701,7 @@ Last 33 apps that were recently added to list!
 - `WDM` [Image Viewer](https://github.com/dragonofmercy/image-viewer) <sup>`FOSS`</sup>
 - `WDM` [Luma HDR Photo Viewer](https://github.com/lueluelue12138/luma-hdr-photo-viewer) <sup>`FOSS`</sup>
 - `WDM` [Piktosaur](https://github.com/Bloomca/Piktosaur) <sup>`FOSS`</sup>
-- `WDM` [Pixeval](https://apps.microsoft.com/detail/9p1rzl9z8454)
+- `WDM` [Pixeval](https://apps.microsoft.com/detail/9p1rzl9z8454) <sup>`FOSS`</sup>
 - `WDM` [Sakura Photo Viewer](https://apps.microsoft.com/store/detail/sakura-photo-viewer/9PG9N9FTR590)
 - `WDM` [Visum Photo Viewer](https://apps.microsoft.com/detail/9n1x3z50blm8)
 
@@ -689,11 +744,11 @@ Last 33 apps that were recently added to list!
 - `WD` [Koda](https://github.com/Ivorisnoob/koda-windows) <sup>`FOSS`</sup>
 - `WDM` [Melora](https://github.com/IcySnex/Melora) <sup>`FOSS`</sup>
 - `WDM` [Melosik](https://apps.microsoft.com/store/detail/melosik-music-player-for-windows/9NH759PMH26M)
-- `WD` [MPDCtrl](https://github.com/torum/MPDCtrl)
+- `WD` [MPDCtrl](https://github.com/torum/MPDCtrl) <sup>`FOSS`</sup>
 - `WDA` [Music-M](https://github.com/Kitsunex-glitch/Music-M) <sup>`FOSS`</sup>
 - `WDM` [Musicloud - Music Downloader](https://apps.microsoft.com/store/detail/musicloud-music-downloader/9P6V0D62D4BQ)
 - `WDM` [Musium](https://github.com/paste1ess/Musium) <sup>`FOSS`</sup> `❎`
-- `WDM` [Nagi](https://apps.microsoft.com/detail/9p1v1ppml3qt).
+- `WDM` [Nagi](https://apps.microsoft.com/detail/9p1v1ppml3qt) <sup>`FOSS`</sup>
 - `WDM` [OpenDeezer](https://github.com/Cycl0o0/OpenDeezer) <sup>`FOSS`</sup>
 - `WDA` [OriginalSound HQ Player](https://apps.microsoft.com/detail/9nfw1rppt999) `💰`
 - `WDM` [Pinnacle Media Player](https://apps.microsoft.com/store/detail/pinnacle-media-player/9P534C2W7JK3)
@@ -728,9 +783,10 @@ Last 33 apps that were recently added to list!
 #### Tools
 
 - `WDM` [Audio Converter - ModernMedia Converter](https://apps.microsoft.com/detail/9nn2zc496lw5)
-- `WDA` [BetterLyrics](https://apps.microsoft.com/detail/9p1wcd1p597r)
+- `WDM` [Audio Router](https://github.com/ShortDevelopment/Audio-Router) <sup>`FOSS`</sup>
+- `WDA` [BetterLyrics](https://apps.microsoft.com/detail/9p1wcd1p597r) <sup>`FOSS`</sup>
 - `WD` [EqSoundPlayer](https://github.com/uponatime2019/EqSoundPlayer) <sup>`FOSS`</sup>
-- `WDM` [HotLyric](https://apps.microsoft.com/detail/9mxffhvqvbv9)
+- `WDM` [HotLyric](https://apps.microsoft.com/detail/9mxffhvqvbv9) <sup>`FOSS`</sup>
 - `WD` [JBLControl](https://github.com/ffrafat/JBLControl) <sup>`FOSS`</sup>
 - `WDM` [LyricEase](https://install.appcenter.ms/users/brandonw3612/apps/lyricease/distribution_groups/public)
 - `WDA` [Lyricod](https://github.com/Indarkdust/Lyricod-App) <sup>`FOSS`</sup>
@@ -795,7 +851,7 @@ Last 33 apps that were recently added to list!
 #### Streaming
 
 - `WDM` [Apple TV](https://apps.microsoft.com/detail/9nm4t8b9jqz1)
-- `WDA` [FluentFin](https://github.com/insomniachi/FluentFin)
+- `WDA` [FluentFin](https://github.com/insomniachi/FluentFin) <sup>`FOSS`</sup>
 - `WDM` [HyPlayer](https://github.com/HyPlayer/HyPlayer) <sup>`FOSS`</sup>
 - `WDM` [Kinema](https://github.com/kinema-app/kinema)
 - `WDM` [MovTv](https://apps.microsoft.com/detail/9ns64tczr3w9)
@@ -823,6 +879,7 @@ Last 33 apps that were recently added to list!
 - `WDM` [CD Ripper - Rip CD to Mp3](https://apps.microsoft.com/detail/9pgs5rbvwjzb)
 - `WDM` [DVD Ripper - Rip DVD](https://apps.microsoft.com/detail/9np0ktx797vl)
 - `WDM` [HEVC AV1 - Codec Hub](https://apps.microsoft.com/detail/9n3gt3hbvk5x) `💰`
+- `WDM` [MahiroToolbox](https://github.com/Eanya-Tonic/MahiroToolbox) <sup>`FOSS`</sup>
 - `WD` [Quick Editor](https://apps.microsoft.com/detail/9pjx9mf61m1p) `💰`
 - `WD` [VideoCropper](https://github.com/PeteJobi/VideoCropper) <sup>`FOSS`</sup>
 
@@ -832,7 +889,7 @@ Last 33 apps that were recently added to list!
 
 - `WDM` [Camo](https://camo.com/studio)
 - `WDM` [Character Map UWP](https://github.com/character-map-uwp/Character-Map-UWP) <sup>`FOSS`</sup>
-- `WDM` [Fluent Emoji Gallery](https://github.com/michalleptuch/fluent-emoji-gallery) <sup>`FOSS`</sup>
+- `WDM` [Fluent Emoji Gallery](https://github.com/michalleptuch/fluent-emoji-gallery)
 - `WDM` [Fluent Noise Generator](https://github.com/bluday/fluent-noise-generator) <sup>`FOSS`</sup>
 - `WD` [ImagineIt](https://apps.microsoft.com/detail/9nthbmqz5bwf)
 - `WD` [PageFabric](https://apps.microsoft.com/detail/9p170799pf3q)
@@ -874,12 +931,12 @@ Last 33 apps that were recently added to list!
 - `WD` [Ideas](https://github.com/living-ming/WinUI3-Ideas) <sup>`FOSS`</sup>
 - `WD` [Inklet](https://github.com/JAD-Apps/Inklet) <sup>`FOSS`</sup>
 - `WD` [InkMD-Editor](https://github.com/tribeti/InkMD-Editor) <sup>`FOSS`</sup>
-- `WDM` [Ivirius Text Editor](https://github.com/IviriusMain/Ivirius-Text-Editor) <sup>`FOSS`</sup>
+- `WDM` [Ivirius Text Editor](https://github.com/IviriusMain/Ivirius-Text-Editor)
 - `WDM` [LoxaEdit](https://apps.microsoft.com/detail/9ntx09k5swzp) `💰`
 - `WD` [Markdown Viewer](https://github.com/sannlynnhtun-coding/markdown-viewer-app) <sup>`FOSS`</sup>
 - `WD` [Marqora](https://github.com/paultechguy/Marqora) <sup>`FOSS`</sup>
 - `WDM` [MdPad](https://github.com/radueduard97/MdPad) <sup>`FOSS`</sup>
-- `WDM` [Mica Editor](https://apps.microsoft.com/detail/9pgzbdp9pspf)
+- `WDM` [Mica Editor](https://apps.microsoft.com/detail/9pgzbdp9pspf) <sup>`FOSS`</sup>
 - `WD` [Miyanyedi Quick Note](https://apps.microsoft.com/detail/9pgb6sqsk601)
 - `WD` `WDM` `WDA` [MyNotebook](https://github.com/aungkokomm/MyNotebook) <sup>`FOSS`</sup>
 - `WDM` `WDA` [MyNotes](https://github.com/Erencrypt/MyNotes) <sup>`FOSS`</sup>
@@ -953,7 +1010,7 @@ Last 33 apps that were recently added to list!
 - `WD` [Lively Engine](https://apps.microsoft.com/detail/9np74tbq33zp)
 - `WDM` [Lively Wallpaper](https://github.com/lively-community/lively) <sup>`FOSS`</sup>
 - `WDM` [Magpie](https://github.com/Blinue/Magpie) <sup>`FOSS`</sup>
-- `WDM` [Mica](https://apps.microsoft.com/store/detail/mica%E2%84%A2%EF%B8%8F/9N7LF08JZ98K)
+- `WDM` [Mica](https://apps.microsoft.com/store/detail/mica%E2%84%A2%EF%B8%8F/9N7LF08JZ98K) <sup>`FOSS`</sup>
 - `WDM` [Mica For Everyone](https://github.com/MicaForEveryone/MicaForEveryone) <sup>`FOSS`</sup>
 - `WD` [Mouse Cursor Customizer](https://github.com/uponatime2019/MouseCursorCustomizer) <sup>`FOSS`</sup>
 - `WDM` [MyDay - Hourly Day Planner](https://apps.microsoft.com/store/detail/myday-hourly-day-planner/9P8QTKPD2WK3) `💰`
@@ -961,11 +1018,12 @@ Last 33 apps that were recently added to list!
 - `WDM` [PetDesk](https://github.com/uponatime2019/PetDesk) <sup>`FOSS`</sup>
 - `WD` [Pulse](https://github.com/AverageCodeNerd/pulse) <sup>`FOSS`</sup>
 - `WDM` [RainbowFrame](https://apps.microsoft.com/detail/9p0pflqk1b0w)
-- `WD` [Rebound](https://github.com/IviriusCommunity/Rebound)
-- `WDM` [Startify](https://github.com/Lixkote/Startify)
+- `WD` [Rebound](https://github.com/IviriusCommunity/Rebound) <sup>`FOSS`</sup>
+- `WDM` [Startify](https://github.com/Lixkote/Startify) <sup>`FOSS`</sup>
 - `WDM` `WDA` [Sucrose Wallpaper Engine](https://apps.microsoft.com/detail/xp8jgpbhtjglcq)
 - `WDM` [T-Drive](https://apps.microsoft.com/detail/9mvd1pkdtxsn)
 - `WDM` [Tabbed](https://apps.microsoft.com/detail/9pntw3wl9srq)
+- `WDM` [TaskbarGroupsFluent](https://github.com/Mun1to/TaskbarGroupsFluent) <sup>`FOSS`</sup>
 - `WDM` [TheMenu](https://apps.microsoft.com/detail/9p1rpmsh1tpb) `💰`
 - `WDM` [Timeline Wallpaper](https://apps.microsoft.com/detail/9n7vhq989bb7)
 - `WD` [TopTaskBarWin11](https://github.com/uponatime2019/TopTaskBarWin11) <sup>`FOSS`</sup>
@@ -988,7 +1046,7 @@ Last 33 apps that were recently added to list!
 ## 📈 Productivity
 
 - `WD` [Authority Editor](https://apps.microsoft.com/detail/9n3bxxqtlvln)
-- `WDM` [Barcode Fonts Trial](https://apps.microsoft.com/detail/9n2n5j6q9t51) <sup>`FOSS`</sup>
+- `WDM` [Barcode Fonts Trial](https://apps.microsoft.com/detail/9n2n5j6q9t51)
 - `WDM` [BattleDex](https://github.com/merc1er/BattleDex) <sup>`FOSS`</sup>
 - `WDM` [Calendar Flyout](https://apps.microsoft.com/store/detail/calendar-flyout/9P2B3PLJXH3V) `💰`
 - `WDM` [Cipherflow](https://github.com/BradleyBao/Cipherflow) <sup>`FOSS`</sup>
@@ -1003,12 +1061,12 @@ Last 33 apps that were recently added to list!
 - `WDM` [Fluent Stopwatch](https://apps.microsoft.com/detail/9plk7b7qqfz7)
 - `WD` [FluentTaskScheduler](https://github.com/TRGamer-tech/FluentTaskScheduler) <sup>`FOSS`</sup>
 - `WDM` [iCloud](https://apps.microsoft.com/detail/9pktq5699m62)
-- `WDA` [Ink Workspace](https://apps.microsoft.com/detail/9p0rp342jzmn) <sup>`FOSS`</sup>
+- `WDA` [Ink Workspace](https://apps.microsoft.com/detail/9p0rp342jzmn)
 - `WD` [LazyFish](https://github.com/XMuli/LazyFish) <sup>`FOSS`</sup>
 - `WDM` [LingoFlow](https://apps.microsoft.com/detail/9pgww60h5nmw) `💰`
 - `WDM` [Live Home 3D - House Design](https://apps.microsoft.com/detail/9PG2CXWTKVB1)
 - `WD` [MediaDuet](https://github.com/TIANLI0/MediaDuet) <sup>`FOSS`</sup>
-- `WDM` [Microsoft Journal](https://apps.microsoft.com/detail/9n318r854rhh) <sup>`FOSS`</sup>
+- `WDM` [Microsoft Journal](https://apps.microsoft.com/detail/9n318r854rhh)
 - `WD` [miniLook](https://apps.microsoft.com/detail/9nwqnmp3xsdk)
 - `WDM` [Nokana](https://apps.microsoft.com/detail/9MTQ1WTFK7TW)
 - `WDM` [Notepad Calculator](https://apps.microsoft.com/detail/9pbwtw4h690n)
@@ -1041,7 +1099,7 @@ Last 33 apps that were recently added to list!
 - `WDM` [ToolsSet](https://apps.microsoft.com/detail/9nqgtzgm4lrh) `💰`
 - `WD` [TouchSenderTablet](https://github.com/voltaney/TouchSenderTablet) <sup>`FOSS`</sup>
 - `WDM` [TypingDojo](https://github.com/uponatime2019/TypingDojo) <sup>`FOSS`</sup>
-- `WDM` [United Sets preview beta](https://apps.microsoft.com/store/detail/united-sets-preview-beta/9N7CWZ3L5RWL)
+- `WDM` [United Sets preview beta](https://apps.microsoft.com/store/detail/united-sets-preview-beta/9N7CWZ3L5RWL) <sup>`FOSS`</sup>
 - `WDM` [USB Drive Manager](https://apps.microsoft.com/detail/9n1bqgx8h8h6)
 - `WD` [Uviewer](https://github.com/kirinonakar/Uviewer) <sup>`FOSS`</sup>
 - `WD` [Visual Pad](https://apps.microsoft.com/detail/9p7xcxgqp92l)
@@ -1067,7 +1125,7 @@ Last 33 apps that were recently added to list!
 - `WDM` [EasePass](https://github.com/FrozenAssassine/EasePass) <sup>`FOSS`</sup>
 - `WDM` [Honeypot](https://github.com/sh0ckj0ckey/Honeypot) <sup>`FOSS`</sup>
 - `WDM` [Orayo](https://github.com/barkure/Orayo) <sup>`FOSS`</sup> `❎`
-- `WDM` [Passify](https://github.com/AhmedDevEG/Passify) <sup>`FOSS`</sup>
+- `WDM` [Passify](https://github.com/AhmedDevEG/Passify)
 - `WM` [Pass11](https://github.com/LawOff/Pass11) <sup>`FOSS`</sup>
 - `WD` [PassGenie - Secure Password Manager](https://apps.microsoft.com/detail/9n60m35bjqx9) `💰`
 - `WD` [PassMaker - Advanced Password Generator](https://apps.microsoft.com/detail/9mtnmklt725l)
@@ -1077,9 +1135,11 @@ Last 33 apps that were recently added to list!
 
 - `WD` [Atoll VPN](https://github.com/kaoshipaws/atollvpn)
 - `WD` [Proton VPN](https://github.com/ProtonVPN/win-app) <sup>`FOSS`</sup>
+- `WDM` [Tailscale Client](https://github.com/uwu/tailscale-client) <sup>`FOSS`</sup>
 
 ### Other
 
+- `WDM` [CDPI UI](https://github.com/Storik4pro/cdpiui) <sup>`FOSS`</sup>
 - `WD` [Gyroown](https://github.com/JularDepick/Gyroown) <sup>`FOSS`</sup>
 - `WD` [Secure Folder, Files and Encrypt](https://apps.microsoft.com/detail/9mvd647dwgm8)
 - `WD` [SecureAppLocker](https://github.com/osmanonurkoc/SecureAppLocker) <sup>`FOSS`</sup>
@@ -1096,7 +1156,7 @@ Last 33 apps that were recently added to list!
 
 ### Bluesky
 
-- `WDM` [Darksky (Preview)](https://apps.microsoft.com/detail/9np22dtfscts)
+- `WDM` [Darksky (Preview)](https://apps.microsoft.com/detail/9np22dtfscts) <sup>`FOSS`</sup>
 - `WDM` [Traysky](https://github.com/Tray-Land/traysky) <sup>`FOSS`</sup>
 
 ### Discord
@@ -1108,12 +1168,12 @@ Last 33 apps that were recently added to list!
 
 ### Mastodon
 
-- `WDM` [Bluechirp](https://github.com/AnalogFeelings/Bluechirp) `📆`
-- `WD` [Dowstodon](https://apps.microsoft.com/detail/9phnv45jvr2s) <sup>`FOSS`</sup>
+- `WDM` [Bluechirp](https://github.com/AnalogFeelings/Bluechirp) `📆` <sup>`FOSS`</sup>
+- `WD` [Dowstodon](https://apps.microsoft.com/detail/9phnv45jvr2s)
 
 ### Reddit
 
-- `WDM` [Carpeddit](https://github.com/itsWindows11/Carpeddit) `❎`
+- `WDM` [Carpeddit](https://github.com/itsWindows11/Carpeddit) `❎` <sup>`FOSS`</sup>
 - `WD` [Fluentreddit](https://github.com/tobyisawesome/fluentreddit/tree/main) `🎨` <sup>`FOSS`</sup>
 
 ### Steam
@@ -1207,14 +1267,16 @@ Last 33 apps that were recently added to list!
 
 - `WD` [ActionRepeater](https://github.com/sibber5/ActionRepeater) <sup>`FOSS`</sup>
 - `WD` [ADB Manager](https://github.com/beliy26/AdbManager) <sup>`FOSS`</sup>
-- `WDA` [Adsk Licensing Modifier](https://apps.microsoft.com/detail/9njhvt90glp5)
+- `WDA` [Adsk Licensing Modifier](https://apps.microsoft.com/detail/9njhvt90glp5) <sup>`FOSS`</sup>
 - `WDM` [Amethyst](https://github.com/KinectToVR/Amethyst) <sup>`FOSS`</sup>
 - `WDM` [Anchor Dock](https://github.com/framedparadox/anchor-dock) <sup>`FOSS`</sup>
 - `WD` [Angel Umbrella](https://github.com/mntone/AngelUmbrella) <sup>`FOSS`</sup>
+- `WDM` [APK Installer](https://github.com/Paving-Base/APK-Installer) <sup>`FOSS`</sup>
 - `WDM` [Apple Devices](https://apps.microsoft.com/detail/9np83lwlpz9k)
 - `WD` [ArcticControl](https://github.com/paulober/ArcticControl) <sup>`FOSS`</sup>
 - `WDM` [Astro Dimmer](https://github.com/thenail/astrodimmer) <sup>`FOSS`</sup>
 - `WD` [AT Installer](https://github.com/airtaxi/AT-Installer) <sup>`FOSS`</sup>
+- `WDM` [AtlasOS Toolbox](https://github.com/Atlas-OS/atlas-toolbox) <sup>`FOSS`</sup>
 - `WD` [AudioPlaybackConnector2](https://github.com/N0ahTM/AudioPlaybackConnector2) <sup>`FOSS`</sup>
 - `WDM` [Aura Click](https://github.com/ryanlua/auraclick) <sup>`FOSS`</sup>
 - `WDM` [Auto Clicker](https://apps.microsoft.com/detail/9p9lh49wfjlp)
@@ -1240,7 +1302,7 @@ Last 33 apps that were recently added to list!
 - `WD` [BuhoSleep](https://apps.microsoft.com/detail/9pfhwns1fp82)
 - `WDM` [CarpeCast](https://github.com/jayfunc/CarpeCast) <sup>`FOSS`</sup>
 - `WD` [Categorized Notes](https://apps.microsoft.com/detail/9nmvqdjkk5mc)
-- `WDM` [ClassevivaPCTO](https://apps.microsoft.com/store/detail/classevivapcto/9PNST3M88D1S)
+- `WDM` [ClassevivaPCTO](https://apps.microsoft.com/store/detail/classevivapcto/9PNST3M88D1S) <sup>`FOSS`</sup>
 - `WD` [Clipboard Activity Monitor](https://github.com/creamtea47/clipboard-activity-monitor) <sup>`FOSS`</sup>
 - `WDM` [Clipboard Inspector](https://github.com/TheJoeFin/clipboard-inspector) <sup>`FOSS`</sup>
 - `WDM` [Clipboard Studio](https://apps.microsoft.com/detail/9nb8rb7pw40s)
@@ -1294,10 +1356,10 @@ Last 33 apps that were recently added to list!
 - `WDM` [Fluent Flyouts](https://apps.microsoft.com/detail/9ppcm05rw87x)
 - `WDM` [Fluent GIF Picker](https://apps.microsoft.com/detail/9n6q7kzx4ngj)
 - `WD` [Fluent Regex - test regular expressions](https://apps.microsoft.com/detail/9n9814wtcx43)
-- `WDM` [Fluent Screen Recorder](https://apps.microsoft.com/store/detail/fluent-screen-recorder/9MWV79XLFQH7)
+- `WDM` [Fluent Screen Recorder](https://apps.microsoft.com/store/detail/fluent-screen-recorder/9MWV79XLFQH7) <sup>`FOSS`</sup>
 - `WDM` [Fluent Search](https://apps.microsoft.com/store/detail/fluent-search/9NK1HLWHNP8S)
-- `WDM` [FluentFlyout](https://apps.microsoft.com/detail/9n45nsm4tnbp)
-- `WDM` [FluentInfo](https://apps.microsoft.com/detail/9n949bzl5km2)
+- `WDM` [FluentFlyout](https://apps.microsoft.com/detail/9n45nsm4tnbp) <sup>`FOSS`</sup>
+- `WDM` [FluentInfo](https://apps.microsoft.com/detail/9n949bzl5km2) <sup>`FOSS`</sup>
 - `WDM` [Fluentver](https://github.com/Tech5G5G/Fluentver) <sup>`FOSS`</sup>
 - `WD` [Fluestic](https://apps.microsoft.com/detail/9pm0lqz0cwsp)
 - `WDM` [Fluver](https://apps.microsoft.com/detail/9n3lmss7xl2k)
@@ -1307,9 +1369,10 @@ Last 33 apps that were recently added to list!
 - `WD` [FontFlow](https://apps.microsoft.com/detail/9pmsq6hv8rcc) `💰`
 - `WDM` [Format Factory WinUI](https://apps.microsoft.com/detail/9p3fkcjhhz7n)
 - `WDM` [Frequency Sound Generator](https://apps.microsoft.com/detail/9ngjl1pb8j9b) `💰`
-- `WDM` [Gateway Switcher](https://apps.microsoft.com/detail/9PDQC93R0WLF)
+- `WDM` [Gateway Switcher](https://apps.microsoft.com/detail/9PDQC93R0WLF) <sup>`FOSS`</sup>
 - `WDM` [GestureSign v2](https://github.com/Tomclanc/GestureSignv2) <sup>`FOSS`</sup>
 - `WDM` [Glimmer](https://github.com/danishm/glimmer) <sup>`FOSS`</sup>
+- `WDM` [GoAwayEdge](https://github.com/valnoxy/GoAwayEdge) <sup>`FOSS`</sup>
 - `WDM` [Google Photos Takeout Organizer](https://github.com/itielbru/gphotos-takeout-organizer) <sup>`FOSS`</sup>
 - `WDM` [GUID Pro](https://apps.microsoft.com/detail/9nwdpt7w3c08)
 - `WD` [Ha Companion Windows](https://github.com/Elias0505/ha-companion-windows) <sup>`FOSS`</sup>
@@ -1319,12 +1382,13 @@ Last 33 apps that were recently added to list!
 - `WD` [iBackup Extractor](https://apps.microsoft.com/detail/9n8974wcqmsw) `💰`
 - `WD` [ImgPicker](https://apps.microsoft.com/detail/9pf2fblvl4p1)
 - `WDM` [inputor](https://github.com/shiquda/inputor) <sup>`FOSS`</sup>
-- `WDM` [Installer Studio](https://apps.microsoft.com/detail/9ph3f91w01fh)
+- `WDM` [Installer Studio](https://apps.microsoft.com/detail/9ph3f91w01fh) <sup>`FOSS`</sup>
 - `WD` [Intel® Graphics Software](https://apps.microsoft.com/detail/9P8K5G2MWW6Z)
 - `WD` [IntuneCommander](https://github.com/adamgell/IntuneCommander) <sup>`FOSS`</sup>
 - `WDM` [IPDetective - Advanced IP Scanner](https://apps.microsoft.com/store/detail/ipdetective-advanced-ip-scanner/9P5BGL0C8VBS) `💰`
 - `WDM` [IRCameraView](https://github.com/Iemand005/IRCameraView) <sup>`FOSS`</sup>
 - `WDM` [ISOMaker - ISO Image Creator](https://apps.microsoft.com/store/detail/isomaker-iso-image-creator/9NP1ZVJW7BV2) `💰`
+- `WDM` [IT Admin Toolkit](https://github.com/nkasco/IT-Admin-Toolkit-WinUI) <sup>`FOSS`</sup>
 - `WD` [Jelling Battery Monitor](https://github.com/Gitsko/jelling) <sup>`FOSS`</sup>
 - `WDM` [Jump List Manager](https://github.com/0x5bfa/JumpListManager) <sup>`FOSS`</sup>
 - `WD` [Kalends.WinUI](https://github.com/lawlabs/kalends-winui) `📆 Planned` <sup>`FOSS`</sup>
@@ -1332,7 +1396,7 @@ Last 33 apps that were recently added to list!
 - `WD` [LANConnect](https://github.com/WinUI-Dev/LANConnect) <sup>`FOSS`</sup>
 - `WDM` [Latency Tester](https://apps.microsoft.com/store/detail/latency-tester/9P7NKPXPR5FN)
 - `WDM` [LauncherX](https://github.com/Apollo199999999/LauncherX) <sup>`FOSS`</sup>
-- `WDM` [Lecture Countdown](https://apps.microsoft.com/store/detail/lecture-countdown/9P4NPSWTX7LK)
+- `WDM` [Lecture Countdown](https://apps.microsoft.com/store/detail/lecture-countdown/9P4NPSWTX7LK) <sup>`FOSS`</sup>
 - `WDM` [LinkRevealer - Reveal Actual URL](https://apps.microsoft.com/detail/9pp364bf9163) `💰`
 - `WD` [LinkTo](https://github.com/abevol/LinkTo) <sup>`FOSS`</sup>
 - `WDM` [Locale Emulator Fluent](https://apps.microsoft.com/detail/9pfl7d8r1m5w)
@@ -1343,7 +1407,7 @@ Last 33 apps that were recently added to list!
 - `WDM` [LycanZip](https://github.com/Aegisulf/LycanZip) <sup>`FOSS`</sup>
 - `WD` [LYLG For UWP](https://apps.microsoft.com/detail/9nj5v22l6c66)
 - `WD` [Lyra](https://github.com/Turtlepaw/lyra) `📆 Planned` <sup>`FOSS`</sup>
-- `WDM` [MagicPods](https://github.com/steam3d/MagicPods-Windows) <sup>`FOSS`</sup>
+- `WDM` [MagicPods](https://github.com/steam3d/MagicPods-Windows)
 - `WDM` [MailTrayNotifier](https://github.com/jongcheol-pak/MailTrayNotifier) <sup>`FOSS`</sup>
 - `WD` [MarkdownToPDF](https://github.com/EggyStudio/MarkdownToPDF) <sup>`FOSS`</sup>
 - `WDM` [MDF2ISO - MDF to ISO Converter](https://apps.microsoft.com/detail/9p6k8mvh8dz8) `💰`
@@ -1354,11 +1418,11 @@ Last 33 apps that were recently added to list!
 - `WD` [Mercury Converter](https://github.com/AfridexD/MercuryConverter) <sup>`FOSS`</sup>
 - `WDM` [MihomoDeck](https://github.com/KarlRaphel/MihomoDeck) <sup>`FOSS`</sup>
 - `WD` [MiHouse Desktop](https://github.com/Zhanyuanium/MiHouse-Desktop) <sup>`FOSS`</sup>
-- `WDM` [ModernFlyouts (Preview)](https://apps.microsoft.com/store/detail/modernflyouts-preview/9MT60QV066RP)
+- `WDM` [ModernFlyouts (Preview)](https://apps.microsoft.com/store/detail/modernflyouts-preview/9MT60QV066RP) <sup>`FOSS`</sup>
 - `WDA` [ModernRun](https://apps.microsoft.com/store/detail/modernrun/9NRMMT926PNX)
 - `WD` [Monitor Controller – Brightness & Contrast](https://apps.microsoft.com/detail/9nmss9cllz3n) `💰`
 - `WD` [Monitor.Ctrl - Monitor Brightness Control](https://apps.microsoft.com/detail/9pn4pvbqsm1z)
-- `WDM` [Monitorian](https://apps.microsoft.com/detail/9NW33J738BL0)
+- `WDM` [Monitorian](https://apps.microsoft.com/detail/9NW33J738BL0) <sup>`FOSS`</sup>
 - `WDA` [MoreFlyout](https://github.com/ChenYiLins/MoreFlyout) <sup>`FOSS`</sup>
 - `WDM` [Mouse Jump - Move Mouse to Screen](https://apps.microsoft.com/detail/9pb4nvrt0vtp) `💰`
 - `WDA` [MouseClicker](https://github.com/kavoye/MouseClicker) <sup>`FOSS`</sup>
@@ -1366,8 +1430,8 @@ Last 33 apps that were recently added to list!
 - `WDM` [MyPhone](https://github.com/BestOwl/MyPhone) <sup>`FOSS`</sup>
 - `WD` [MyTikTokBackup](https://github.com/tmk907/MyTikTokBackup) <sup>`FOSS`</sup>
 - `WDM` [MyTools1](https://apps.microsoft.com/detail/9p8kkslj76g3)
-- `WDM` [NanaGet](https://github.com/M2Team/NanaGet)
-- `WDM` [NanaZip](https://github.com/M2Team/NanaZip)
+- `WDM` [NanaGet](https://github.com/M2Team/NanaGet) <sup>`FOSS`</sup>
+- `WDM` [NanaZip](https://github.com/M2Team/NanaZip) <sup>`FOSS`</sup>
 - `WD` [Nearclip](https://github.com/ivLis-Studio/nearclip) <sup>`FOSS`</sup>
 - `WD` [NetFox](https://github.com/uponatime2019/NetFox) <sup>`FOSS`</sup>
 - `WD` [Network Speed Checker](https://github.com/uponatime2019/NetworkSpeedChecker) <sup>`FOSS`</sup>
@@ -1377,7 +1441,7 @@ Last 33 apps that were recently added to list!
 - `WDM` [OmenFlow](https://github.com/yunusemreyl/omen-space-windows) <sup>`FOSS`</sup>
 - `WD` [OpenQCY Desktop](https://github.com/GiorgioRafael/OpenQCY-Desktop) <sup>`FOSS`</sup>
 - `WDM` [OpenSense](https://github.com/archivesteak/opensense) <sup>`FOSS`</sup>
-- `WD` [PaimonTray](https://apps.microsoft.com/detail/9PP6PJDDRNRZ)
+- `WD` [PaimonTray](https://apps.microsoft.com/detail/9PP6PJDDRNRZ) <sup>`FOSS`</sup>
 - `WD` [Pakko](https://github.com/pakkoapp-oss/pakko) <sup>`FOSS`</sup>
 - `WD` [PatchLight](https://github.com/G4SBO/PatchLight) <sup>`FOSS`</sup>
 - `WD` [Phobos](https://apps.microsoft.com/detail/9n9mxc18zx4l)
@@ -1389,9 +1453,9 @@ Last 33 apps that were recently added to list!
 - `WD` [Ping Legacy](https://github.com/avikeid2007/Ping-Legacy) <sup>`FOSS`</sup>
 - `WD` [PocketCFD](https://apps.microsoft.com/store/detail/pocketcfd/9P9QZD92NR3F)
 - `WDA` [Pomodoro Focus - WidBar Widget](https://apps.microsoft.com/detail/9nwrj4d65dhs)
-- `WDA` [PotatoVN](https://apps.microsoft.com/detail/9P9CBKD5HR3W)
+- `WDA` [PotatoVN](https://apps.microsoft.com/detail/9P9CBKD5HR3W) <sup>`FOSS`</sup>
 - `WD` [PowerModeSlider](https://github.com/giulioungaretti/PowerModeSlider) <sup>`FOSS`</sup>
-- `WDM` [PowerToolbox](https://apps.microsoft.com/detail/9MV67V21H386)
+- `WDM` [PowerToolbox](https://apps.microsoft.com/detail/9MV67V21H386) <sup>`FOSS`</sup>
 - `WD` [PPTXLocker - Presentation File Locker](https://apps.microsoft.com/detail/9n9mpqg9gcn2) `💰`
 - `WDA` [PredatorLite](https://github.com/XYZ1024-alt/PredatorLite) <sup>`FOSS`</sup>
 - `WD` [ProcessKeeper](https://github.com/KangQiovo/ProcessKeeper) <sup>`FOSS`</sup>
@@ -1400,7 +1464,7 @@ Last 33 apps that were recently added to list!
 - `WD` [ProRip - CD Ripper](https://apps.microsoft.com/detail/9n0dv8r8mw2p)
 - `WD` [ProScan - Scan Document, PDF Scanner](https://apps.microsoft.com/detail/9mxc3k2q8fzn)
 - `WD` [ProShred - Secure File Shredder](https://apps.microsoft.com/detail/9n4lpvvts7rs)
-- `WD` [PSXMaster](https://apps.microsoft.com/detail/9n71hm7q8sxk)
+- `WD` [PSXMaster](https://apps.microsoft.com/detail/9n71hm7q8sxk) <sup>`FOSS`</sup>
 - `WDM` [QR Generator Lite](https://apps.microsoft.com/detail/9nlvwvk942f2)
 - `WDM` [QRCoder - Easy QR Code Generator](https://apps.microsoft.com/detail/9ngpp9jx361t) `💰`
 - `WDM` [Quick JSON to NDJSON Converter](https://apps.microsoft.com/detail/9nclnt6pzhx3) `💰`
@@ -1408,7 +1472,7 @@ Last 33 apps that were recently added to list!
 - `WDM` [Ranna](https://apps.microsoft.com/detail/ranna/9MTCSJS9G777)
 - `WD` [Reframe](https://github.com/shuiandy/Reframe) <sup>`FOSS`</sup>
 - `WDM` [Registry Editor Valley](https://github.com/0x5bfa/RegistryEditor) <sup>`FOSS`</sup>
-- `WDA` [Rememory | Clipboard Manager](https://apps.microsoft.com/detail/9nkgmcqgvpl1)
+- `WDA` [Rememory | Clipboard Manager](https://apps.microsoft.com/detail/9nkgmcqgvpl1) <sup>`FOSS`</sup>
 - `WDM` [Remote Toolbox](https://github.com/sixiaolong1117/WinWoL) <sup>`FOSS`</sup>
 - `WDM` [Rename WinUI](https://apps.microsoft.com/detail/9n43msj4r03p)
 - `WD` [RepoBackup](https://github.com/GuildOfCalamity/RepoBackup) `📆` <sup>`FOSS`</sup>
@@ -1418,7 +1482,7 @@ Last 33 apps that were recently added to list!
 - `WD` [Rodel Reader](https://apps.microsoft.com/detail/9pfzckrhw0bc)
 - `WDM` [RTX Auto Curve Optimizer](https://github.com/smohring/rtx-auto-curve-optimizer) <sup>`FOSS`</sup>
 - `WDA` [Rufus Next](https://github.com/rasyidf/rufus-next) `📆` <sup>`FOSS`</sup>
-- `WDM` [Run by FireCube](https://apps.microsoft.com/store/detail/run-by-firecube-not-by-microsoft/9NQGV64S5136)
+- `WDM` [Run by FireCube](https://apps.microsoft.com/store/detail/run-by-firecube-not-by-microsoft/9NQGV64S5136) <sup>`FOSS`</sup>
 - `WD` [RunDialog](https://github.com/Dekrate/RunDialog) <sup>`FOSS`</sup>
 - `WD` [RunManager](https://apps.microsoft.com/store/detail/runmanager/9NGP5GKCCF3S)
 - `WDM` [RyTuneX](https://github.com/rayenghanmi/RyTuneX) <sup>`FOSS`</sup>
@@ -1428,6 +1492,7 @@ Last 33 apps that were recently added to list!
 - `WD` [Screen Recorder Pro.](https://apps.microsoft.com/detail/screen-recorder-pro/9P4PF7SGF95R) `💰`
 - `WDM` [Screen.Recorder](https://apps.microsoft.com/detail/9mswxd994dm1)
 - `WDM` [See My Server](https://apps.microsoft.com/detail/9mtgbs9ptch8)
+- `WDM` [Sefirah](https://github.com/shrimqy/Sefirah) <sup>`FOSS`</sup>
 - `WDM` [Self Signed Certificate Maker](https://apps.microsoft.com/detail/9ng2p6wjlgp7) `💰`
 - `WDM` [Service Manager](https://github.com/Chr1st1anSzech/Service-Manager) `📆` <sup>`FOSS`</sup>
 - `WDA` [Shelf File Manager & Clipboard - Widbar Widget](https://apps.microsoft.com/detail/9p18qnl4tc4g)
@@ -1444,13 +1509,17 @@ Last 33 apps that were recently added to list!
 - `WDM` [Snipdeck](https://github.com/StuartMeeks/Snipdeck) <sup>`FOSS`</sup>
 - `WD` [Snipik - Screenshot Snipping Tool](https://apps.microsoft.com/detail/9nkcpt766v6d)
 - `WDM` [Sniply - AI Powered Snipping Tool](https://apps.microsoft.com/detail/9mx89hfsnh0j)
+- `WDM` [Starlight GUI](https://github.com/OpenStarlight/StarlightGUI) <sup>`FOSS`</sup>
+- `WDM` [Starshot](https://github.com/loliri/Starshot) <sup>`FOSS`</sup>
 - `WDM` [SUBSTitute](https://github.com/sungaila/SUBSTitute) <sup>`FOSS`</sup>
+- `WDM` [Symbolic11](https://github.com/Benisgo/Symbolic11) <sup>`FOSS`</sup>
+- `WDM` [SyncClipboard](https://github.com/Jeric-X/SyncClipboard) <sup>`FOSS`</sup>
 - `WDA` [System Metrics - WidBar Widget](https://apps.microsoft.com/detail/9nm2bn1x33cq)
 - `WDM` [TargetDate](https://apps.microsoft.com/detail/9p7ctcxzbk6t) `💰`
 - `WD` [Task Scheduler Studio](https://github.com/MarkHopper24/Task-Scheduler-Studio) <sup>`FOSS`</sup>
 - `WD` [TaskbarWebsites](https://apps.microsoft.com/store/detail/taskbarwebsites/9MZ8WTK48VHT)
 - `WDM` [Text-Grab](https://github.com/TheJoeFin/Text-Grab) <sup>`FOSS`</sup>
-- `WDM` [ThrowObjectDetectionWinUI](https://github.com/0Kirby/ThrowObjectDetectionWinUI)
+- `WDM` [ThrowObjectDetectionWinUI](https://github.com/0Kirby/ThrowObjectDetectionWinUI) <sup>`FOSS`</sup>
 - `WD` [Tiny Clips](https://github.com/jamesmontemagno/tiny-clips) <sup>`FOSS`</sup>
 - `WDA` [Tiny Tracker](https://github.com/Bikuuuu/tiny-tracker) <sup>`FOSS`</sup>
 - `WD` [Translator Overlay](https://github.com/OKTW-Network/Translator-Overlay) <sup>`FOSS`</sup>
@@ -1463,14 +1532,14 @@ Last 33 apps that were recently added to list!
 - `WDM` [Universal Analog Input](https://github.com/Ritonton/UniversalAnalogInput) <sup>`FOSS`</sup>
 - `WD` [UniversalConverter X](https://github.com/SysAdminDoc/UniversalConverterX) <sup>`FOSS`</sup>
 - `WDM` [Utils for Nearby Sharing](https://github.com/nearby-sharing/windows) <sup>`FOSS`</sup>
-- `WD` [UUP Media Creator](https://apps.microsoft.com/store/detail/uup-media-creator/9N1Z0JXB224X)
+- `WD` [UUP Media Creator](https://apps.microsoft.com/store/detail/uup-media-creator/9N1Z0JXB224X) <sup>`FOSS`</sup>
 - `WD` [UWin](https://github.com/bnsware/UWin) <sup>`FOSS`</sup>
 - `WD` [VolumeCtrl - Control App Volume](https://apps.microsoft.com/detail/9p5t8mc7nhsm)
 - `WDM` [Wake on LAN](https://apps.microsoft.com/detail/9N0JJ4VHZ6X5)
 - `WDA` [Watt Toolkit](https://apps.microsoft.com/detail/9mtcfhs560ng)
 - `WDM` [Wave Link 3.0](https://www.elgato.com/ww/en/s/downloads?filter=beta) `📆`
 - `WDM` [WidBar - Widget Taskbar system](https://apps.microsoft.com/detail/9pkldnm83tp9)
-- `WDM` [Widgets for UniGetUI](https://apps.microsoft.com/detail/9nb9m5kz8slx)
+- `WDM` [Widgets for UniGetUI](https://apps.microsoft.com/detail/9nb9m5kz8slx) <sup>`FOSS`</sup>
 - `WDM` [WiFiSpy - Who Is On My WiFi](https://apps.microsoft.com/store/detail/wifispy-who-is-on-my-wifi/9N64F7V2KSZH) `💰`
 - `WD` [Win Folder Monitor](https://github.com/uponatime2019/WinFolderMonitor) <sup>`FOSS`</sup>
 - `WD` [Win LAN Transfer](https://github.com/uponatime2019/WinLANTransfer) <sup>`FOSS`</sup>
@@ -1484,7 +1553,7 @@ Last 33 apps that were recently added to list!
 - `WDA` [WinSweep-](https://apps.microsoft.com/detail/9n9jz16ngz0d)
 - `WDM` [Wintoys](https://apps.microsoft.com/store/detail/wintoys/9P8LTPGCBZXD)
 - `WDA` [WinUi++](https://apps.microsoft.com/detail/xp9brhtxn0z3v7)
-- `WDM` [Winver UWP](https://apps.microsoft.com/store/detail/winver-uwp/9N60S2VFMB7L)
+- `WDM` [Winver UWP](https://apps.microsoft.com/store/detail/winver-uwp/9N60S2VFMB7L) <sup>`FOSS`</sup>
 - `WDM` [Working Timer](https://apps.microsoft.com/detail/9n71w9g714rk)
 - `WD` [WorkTrail](https://github.com/umbertotechnopreneur/WorkTrail) <sup>`FOSS`</sup>
 - `WD` [WSAppBak](https://github.com/MadCkull/WSAppBak) <sup>`FOSS`</sup>
@@ -1511,10 +1580,11 @@ Last 33 apps that were recently added to list!
 - `WDM` [Feedback Hub](https://apps.microsoft.com/store/detail/9NBLGGH4R32N)
 - `WDM` [Get Help](https://apps.microsoft.com/detail/9pkdzbmv1h3t)
 - `WDM` [Microsoft Paint](https://apps.microsoft.com/store/detail/paint/9PCFS5B6T72H)
+- `WDM` [Microsoft PC Manager](https://apps.microsoft.com/detail/9pm860492szd)
 - `WDM` [Microsoft Photos](https://apps.microsoft.com/store/detail/microsoft-photos/9WZDNCRFJBH4)
 - `WDM` [Microsoft PowerToys](https://github.com/microsoft/PowerToys) <sup>`FOSS`</sup>
 - `WDM` [Phone Link](https://apps.microsoft.com/store/detail/phone-link/9NMPJ99VJBWV)
-- `WD` [PowerShell](https://apps.microsoft.com/store/detail/powershell/9MZ1SNWT0N5D)
+- `WD` [PowerShell](https://apps.microsoft.com/store/detail/powershell/9MZ1SNWT0N5D) <sup>`FOSS`</sup>
 - `WD` [Quick Assist](https://apps.microsoft.com/store/detail/quick-assist/9P7BP5VNWKX5)
 - `WDM` [Snipping Tool](https://apps.microsoft.com/store/detail/snipping-tool/9MZ95KL8MR0L)
 - `WDM` [Windows Camera](https://apps.microsoft.com/detail/9wzdncrfjbbg)
@@ -1545,7 +1615,7 @@ Last 33 apps that were recently added to list!
 - `WDM` [MyTel-U Launcher](https://github.com/GID0317/MyTel-U_WinUI3) <sup>`FOSS`</sup>
 - `WD` [Nafer](https://github.com/VueST/nafer-frontend) <sup>`FOSS`</sup>
 - `WDM` [Netease MuMuPlayer](https://mumu.163.com/) `📆` (only the Windows on ARM version is WinUI)
-- `WDM` [PSX Master](https://github.com/ghost1372/PSXMaster)
+- `WDM` [PSX Master](https://github.com/ghost1372/PSXMaster) <sup>`FOSS`</sup>
 - `WDM` [RailGo-WinUI](https://github.com/RailGoApps/RailGo-WinUI) <sup>`FOSS`</sup>
 - `WD` [Recipe Collection](https://apps.microsoft.com/detail/9ntdrjcq2p53)
 - `WD` [RiskFlow](https://github.com/InstaZDLL/RiskFlow) <sup>`FOSS`</sup>
